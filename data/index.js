@@ -1,4 +1,4 @@
-export const dataAffiliateStat = [
+exports.dataAffiliateStat = [
     {
       _id: "6371251df03239e680000033",
       userId: "63701cc1f03239f09e00018a",
@@ -1806,7 +1806,7 @@ export const dataAffiliateStat = [
     },
   ];
   
-  export const dataOverallStat = [
+  exports.dataOverallStat = [
     {
       totalCustomers: 5251,
       yearlySalesTotal: 65152,
@@ -2266,7 +2266,7 @@ export const dataAffiliateStat = [
     },
   ];
   
-  export const dataProduct = [
+  exports.dataProduct = [
     {
       _id: "63701d24f03239c72c00018e",
       name: "Port Beckley",
@@ -2539,7 +2539,7 @@ export const dataAffiliateStat = [
     },
   ];
   
-  export const dataProductStat = [
+  exports.dataProductStat = [
     {
       _id: "6371259df03239e680000035",
       productId: "63701d24f03239c72c00018e",
@@ -12802,7 +12802,7 @@ export const dataAffiliateStat = [
     },
   ];
   
-  export const dataTransaction = [
+  exports.dataTransaction = [
     {
       _id: "63701d74f03239c72c000192",
       userId: "63701cc1f032390a34000319",
@@ -17306,7 +17306,7 @@ export const dataAffiliateStat = [
     },
   ];
   
-  export const dataUser = [
+  exports.dataUser = [
     {
       _id: "63701cc1f03239c72c00017f",
       name: "Konstantine",
