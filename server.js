@@ -6,8 +6,11 @@ const helmet = require('helmet')
 const morgan = require('morgan')
 
 //data import only once
+// const {dataUser, dataProduct, dataProductStat, dataTransaction} = require('./data')
 // const User = require('./models/User')
-// const {dataUser} = require('./data')
+// const Product = require('./models/Product')
+// const ProductStat = require('./models/ProductStat')
+// const Transaction = require('./models/Transaction')
 
 
 // configuration
@@ -50,6 +53,9 @@ mongoose.connection.once('open', ()=>{
     //only add data one time
     //uncommect below to insert data without bcrypt password
     // User.insertMany(dataUser)
+    // Product.insertMany(dataProduct);
+    // ProductStat.insertMany(dataProductStat);
+    // Transaction.insertMany(dataTransaction);
 
     //uncommect below to insert data with bcrypt password
     // dataUser.map(async(user) => {

@@ -1,7 +1,7 @@
 exports.dataAffiliateStat = [
     {
       _id: "6371251df03239e680000033",
-      userId: "63701cc1f03239f09e00018a",
+      user: "63701cc1f03239f09e00018a",
       affiliateSales: [
         "63701d74f0323986f300013e",
         "63701d74f03239b913000026",
@@ -18,7 +18,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239e680000034",
-      userId: "63701cc1f03239d40b000044",
+      user: "63701cc1f03239d40b000044",
       affiliateSales: [
         "63701d74f032398675000144",
         "63701d74f03239bef0000156",
@@ -52,7 +52,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032398675000196",
-      userId: "63701cc1f032395694000009",
+      user: "63701cc1f032395694000009",
       affiliateSales: [
         "63701d74f03239db6900013b",
         "63701d74f03239528f00002e",
@@ -76,7 +76,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032398675000197",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       affiliateSales: [
         "63701d74f03239444100030b",
         "63701d74f032395b33000149",
@@ -157,7 +157,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239b7f7000081",
-      userId: "63701cc1f03239f09e000181",
+      user: "63701cc1f03239f09e000181",
       affiliateSales: [
         "63701d74f03239569400001a",
         "63701d74f03239c72c00019f",
@@ -198,7 +198,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239b7f7000082",
-      userId: "63701cc1f032390a3400031a",
+      user: "63701cc1f032390a3400031a",
       affiliateSales: [
         "63701d74f032394c4900014c",
         "63701d74f032394441000315",
@@ -222,7 +222,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032394441000358",
-      userId: "63701cc1f03239d81e000007",
+      user: "63701cc1f03239d81e000007",
       affiliateSales: [
         "63701d74f032395b3300014f",
         "63701d74f0323986f3000147",
@@ -280,7 +280,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032394441000359",
-      userId: "63701cc1f032394c4900011b",
+      user: "63701cc1f032394c4900011b",
       affiliateSales: [
         "63701d74f03239b913000031",
         "63701d74f03239d40b00005c",
@@ -312,7 +312,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d81e000081",
-      userId: "63701cc1f0323986f3000123",
+      user: "63701cc1f0323986f3000123",
       affiliateSales: [
         "63701d74f03239f09e000196",
         "63701d74f032394c49000136",
@@ -348,7 +348,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d81e000082",
-      userId: "63701cc1f032390a34000324",
+      user: "63701cc1f032390a34000324",
       affiliateSales: [
         "63701d74f03239c72c0001a0",
         "63701d74f03239c72c0001a2",
@@ -380,7 +380,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239eb0c000000",
-      userId: "63701cc1f03239b7f700000e",
+      user: "63701cc1f03239b7f700000e",
       affiliateSales: [
         "63701d74f03239bef0000146",
         "63701d74f03239b7f7000030",
@@ -433,7 +433,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239eb0c000001",
-      userId: "63701cc1f03239528f000011",
+      user: "63701cc1f03239528f000011",
       affiliateSales: [
         "63701d74f032399c00000141",
         "63701d74f03239b7f700002a",
@@ -509,7 +509,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032395b33000196",
-      userId: "63701cc1f03239867500011d",
+      user: "63701cc1f03239867500011d",
       affiliateSales: [
         "63701d74f03239528f000032",
         "63701d74f032394441000307",
@@ -522,7 +522,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032395b33000197",
-      userId: "63701cc1f032390a34000326",
+      user: "63701cc1f032390a34000326",
       affiliateSales: [
         "63701d74f03239f09e000193",
         "63701d74f03239c72c0001b4",
@@ -592,7 +592,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d591000393",
-      userId: "63701cc1f03239569400000f",
+      user: "63701cc1f03239569400000f",
       affiliateSales: [
         "63701d74f032399c0000013d",
         "63701d74f03239867500013f",
@@ -609,7 +609,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d591000394",
-      userId: "63701cc1f032398675000125",
+      user: "63701cc1f032398675000125",
       affiliateSales: [
         "63701d74f03239c72c0001b3",
         "63701d74f03239d591000342",
@@ -654,7 +654,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032395694000081",
-      userId: "63701cc1f032396b8e000007",
+      user: "63701cc1f032396b8e000007",
       affiliateSales: [
         "63701d74f032390a34000350",
         "63701d74f03239b7f700001f",
@@ -685,7 +685,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032395694000082",
-      userId: "63701cc1f03239db6900011c",
+      user: "63701cc1f03239db6900011c",
       affiliateSales: [
         "63701d74f03239b7f7000036",
         "63701d74f03239d40b000086",
@@ -721,7 +721,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032396b8e000081",
-      userId: "63701cc1f03239f09e000188",
+      user: "63701cc1f03239f09e000188",
       affiliateSales: [
         "63701d74f03239b913000034",
         "63701d74f03239d40b000058",
@@ -768,7 +768,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032396b8e000082",
-      userId: "63701cc1f03239d59100031b",
+      user: "63701cc1f03239d59100031b",
       affiliateSales: [
         "63701d74f032399c0000014f",
         "63701d74f032395b33000131",
@@ -798,7 +798,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239bef0000196",
-      userId: "63701cc1f032396b8e000009",
+      user: "63701cc1f032396b8e000009",
       affiliateSales: [
         "63701d74f032395694000035",
         "63701d74f03239528f000037",
@@ -835,7 +835,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239bef0000197",
-      userId: "63701cc1f03239b913000009",
+      user: "63701cc1f03239b913000009",
       affiliateSales: [
         "63701d74f03239cdc500001d",
         "63701d74f03239d40b000081",
@@ -855,7 +855,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239f793000000",
-      userId: "63701cc1f03239b7f700000d",
+      user: "63701cc1f03239b7f700000d",
       affiliateSales: [
         "63701d74f032390a3400034e",
         "63701d74f032396b8e000030",
@@ -899,7 +899,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239f793000001",
-      userId: "63701cc1f03239d40b00003a",
+      user: "63701cc1f03239d40b00003a",
       affiliateSales: [
         "63701d74f03239cdc500001c",
         "63701d74f032398675000149",
@@ -938,7 +938,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239528f000081",
-      userId: "63701cc1f03239d40b00003c",
+      user: "63701cc1f03239d40b00003c",
       affiliateSales: [
         "63701d74f03239f09e00019b",
         "63701d74f03239569400003a",
@@ -978,7 +978,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239528f000082",
-      userId: "63701cc1f03239d59100031f",
+      user: "63701cc1f03239d59100031f",
       affiliateSales: [
         "63701d74f032398675000151",
         "63701d74f032395b3300015a",
@@ -1044,7 +1044,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239f09e0001fa",
-      userId: "63701cc1f03239528f000014",
+      user: "63701cc1f03239528f000014",
       affiliateSales: [
         "63701d74f032399c00000158",
         "63701d74f03239b91300003c",
@@ -1087,12 +1087,12 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239f09e0001fb",
-      userId: "63701cc1f03239d81e000006",
+      user: "63701cc1f03239d81e000006",
       affiliateSales: ["63701d74f03239db69000150"],
     },
     {
       _id: "6371251df03239db69000196",
-      userId: "63701cc1f032395694000008",
+      user: "63701cc1f032395694000008",
       affiliateSales: [
         "63701d74f03239d81e00001f",
         "63701d74f032398675000146",
@@ -1109,7 +1109,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239db69000197",
-      userId: "63701cc1f032396b8e000007",
+      user: "63701cc1f032396b8e000007",
       affiliateSales: [
         "63701d74f032399c00000145",
         "63701d74f03239d40b000064",
@@ -1163,7 +1163,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239b913000081",
-      userId: "63701cc1f03239528f00000c",
+      user: "63701cc1f03239528f00000c",
       affiliateSales: [
         "63701d74f032396b8e00001c",
         "63701d74f032394c49000149",
@@ -1206,7 +1206,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239b913000082",
-      userId: "63701cc1f032390a3400031f",
+      user: "63701cc1f032390a3400031f",
       affiliateSales: [
         "63701d74f03239db69000153",
         "63701d74f03239d81e00001a",
@@ -1249,7 +1249,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239cdc5000081",
-      userId: "63701cc1f032394c4900011c",
+      user: "63701cc1f032394c4900011c",
       affiliateSales: [
         "63701d74f032399c00000148",
         "63701d74f03239b7f7000031",
@@ -1287,7 +1287,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239cdc5000082",
-      userId: "63701cc1f03239f09e00018d",
+      user: "63701cc1f03239f09e00018d",
       affiliateSales: [
         "63701d74f03239d81e000040",
         "63701d74f03239d40b000087",
@@ -1335,7 +1335,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032399c00000196",
-      userId: "63701cc1f03239b7f7000010",
+      user: "63701cc1f03239b7f7000010",
       affiliateSales: [
         "63701d74f03239cdc5000025",
         "63701d74f03239528f000038",
@@ -1400,7 +1400,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df032399c00000197",
-      userId: "63701cc1f03239d81e000010",
+      user: "63701cc1f03239d81e000010",
       affiliateSales: [
         "63701d74f03239528f00003a",
         "63701d74f032390a34000337",
@@ -1420,7 +1420,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df0323986f3000196",
-      userId: "63701cc1f03239d591000325",
+      user: "63701cc1f03239d591000325",
       affiliateSales: [
         "63701d74f032399c00000154",
         "63701d74f032399c00000136",
@@ -1462,7 +1462,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df0323986f3000197",
-      userId: "63701cc1f03239cdc5000011",
+      user: "63701cc1f03239cdc5000011",
       affiliateSales: [
         "63701d74f03239cdc5000029",
         "63701d74f03239db69000138",
@@ -1513,7 +1513,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d40b0000ce",
-      userId: "63701cc1f032390a3400031c",
+      user: "63701cc1f032390a3400031c",
       affiliateSales: [
         "63701d74f03239bef0000146",
         "63701d74f032395b33000130",
@@ -1548,7 +1548,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d40b0000cf",
-      userId: "63701cc1f03239528f000008",
+      user: "63701cc1f03239528f000008",
       affiliateSales: [
         "63701d74f03239db6900015b",
         "63701d74f0323986f3000147",
@@ -1608,7 +1608,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d40b0000d0",
-      userId: "63701cc1f0323944410002dd",
+      user: "63701cc1f0323944410002dd",
       affiliateSales: [
         "63701d74f032399c0000014d",
         "63701d74f0323986f3000149",
@@ -1680,7 +1680,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d40b0000d1",
-      userId: "63701cc1f03239c72c000184",
+      user: "63701cc1f03239c72c000184",
       affiliateSales: [
         "63701d74f032390a3400032d",
         "63701d74f03239bef0000158",
@@ -1754,7 +1754,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371251df03239d40b0000d2",
-      userId: "63701cc1f032394c49000126",
+      user: "63701cc1f032394c49000126",
       affiliateSales: [
         "63701d74f0323986f300013e",
         "63701d74f03239867500012f",
@@ -2542,7 +2542,7 @@ exports.dataAffiliateStat = [
   exports.dataProductStat = [
     {
       _id: "6371259df03239e680000035",
-      productId: "63701d24f03239c72c00018e",
+      product: "63701d24f03239c72c00018e",
       yearlySalesTotal: 7152,
       yearlyTotalSoldUnits: 1414,
       monthlyData: [
@@ -2884,7 +2884,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ef032398675000198",
-      productId: "63701d24f03239c72c00018f",
+      product: "63701d24f03239c72c00018f",
       yearlySalesTotal: 2192,
       yearlyTotalSoldUnits: 1169,
       monthlyData: [
@@ -3226,7 +3226,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239b7f7000083",
-      productId: "63701d24f03239c72c000190",
+      product: "63701d24f03239c72c000190",
       yearlySalesTotal: 4356,
       yearlyTotalSoldUnits: 4305,
       monthlyData: [
@@ -3568,7 +3568,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239444100035a",
-      productId: "63701d24f03239c72c000191",
+      product: "63701d24f03239c72c000191",
       yearlySalesTotal: 9976,
       yearlyTotalSoldUnits: 3579,
       monthlyData: [
@@ -3910,7 +3910,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239d81e000083",
-      productId: "63701d24f03239867500012a",
+      product: "63701d24f03239867500012a",
       yearlySalesTotal: 3602,
       yearlyTotalSoldUnits: 1491,
       monthlyData: [
@@ -4252,7 +4252,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239eb0c000002",
-      productId: "63701d24f03239867500012b",
+      product: "63701d24f03239867500012b",
       yearlySalesTotal: 4819,
       yearlyTotalSoldUnits: 4228,
       monthlyData: [
@@ -4594,7 +4594,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df032395b33000198",
-      productId: "63701d24f03239867500012c",
+      product: "63701d24f03239867500012c",
       yearlySalesTotal: 4091,
       yearlyTotalSoldUnits: 4832,
       monthlyData: [
@@ -4936,7 +4936,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239d591000395",
-      productId: "63701d24f03239867500012d",
+      product: "63701d24f03239867500012d",
       yearlySalesTotal: 6435,
       yearlyTotalSoldUnits: 4627,
       monthlyData: [
@@ -5278,7 +5278,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df032395694000083",
-      productId: "63701d24f03239b7f7000015",
+      product: "63701d24f03239b7f7000015",
       yearlySalesTotal: 3309,
       yearlyTotalSoldUnits: 2331,
       monthlyData: [
@@ -5620,7 +5620,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df032396b8e000083",
-      productId: "63701d24f03239b7f7000016",
+      product: "63701d24f03239b7f7000016",
       yearlySalesTotal: 5264,
       yearlyTotalSoldUnits: 1782,
       monthlyData: [
@@ -5962,7 +5962,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239bef0000198",
-      productId: "63701d24f03239b7f7000017",
+      product: "63701d24f03239b7f7000017",
       yearlySalesTotal: 3238,
       yearlyTotalSoldUnits: 2564,
       monthlyData: [
@@ -6304,7 +6304,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239f793000002",
-      productId: "63701d24f03239b7f7000018",
+      product: "63701d24f03239b7f7000018",
       yearlySalesTotal: 7954,
       yearlyTotalSoldUnits: 4999,
       monthlyData: [
@@ -6646,7 +6646,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239528f000083",
-      productId: "63701d24f0323944410002ec",
+      product: "63701d24f0323944410002ec",
       yearlySalesTotal: 5826,
       yearlyTotalSoldUnits: 3386,
       monthlyData: [
@@ -6988,7 +6988,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ef03239f09e0001fc",
-      productId: "63701d24f0323944410002ed",
+      product: "63701d24f0323944410002ed",
       yearlySalesTotal: 2947,
       yearlyTotalSoldUnits: 1203,
       monthlyData: [
@@ -7330,7 +7330,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239db69000198",
-      productId: "63701d24f0323944410002ee",
+      product: "63701d24f0323944410002ee",
       yearlySalesTotal: 2128,
       yearlyTotalSoldUnits: 703,
       monthlyData: [
@@ -7672,7 +7672,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239b913000083",
-      productId: "63701d24f0323944410002ef",
+      product: "63701d24f0323944410002ef",
       yearlySalesTotal: 7841,
       yearlyTotalSoldUnits: 3889,
       monthlyData: [
@@ -8014,7 +8014,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239cdc5000083",
-      productId: "63701d24f03239d81e000015",
+      product: "63701d24f03239d81e000015",
       yearlySalesTotal: 5994,
       yearlyTotalSoldUnits: 2338,
       monthlyData: [
@@ -8356,7 +8356,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df032399c00000198",
-      productId: "63701d24f03239d81e000016",
+      product: "63701d24f03239d81e000016",
       yearlySalesTotal: 5650,
       yearlyTotalSoldUnits: 2225,
       monthlyData: [
@@ -8698,7 +8698,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df0323986f3000198",
-      productId: "63701d24f03239d81e000017",
+      product: "63701d24f03239d81e000017",
       yearlySalesTotal: 1016,
       yearlyTotalSoldUnits: 2672,
       monthlyData: [
@@ -9040,7 +9040,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239d40b0000d3",
-      productId: "63701d24f03239d81e000018",
+      product: "63701d24f03239d81e000018",
       yearlySalesTotal: 7368,
       yearlyTotalSoldUnits: 1734,
       monthlyData: [
@@ -9382,7 +9382,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259df03239d40b0000d4",
-      productId: "63701d24f032390a34000327",
+      product: "63701d24f032390a34000327",
       yearlySalesTotal: 7667,
       yearlyTotalSoldUnits: 2377,
       monthlyData: [
@@ -9724,7 +9724,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ef03239d40b0000d5",
-      productId: "63701d24f032390a34000328",
+      product: "63701d24f032390a34000328",
       yearlySalesTotal: 6058,
       yearlyTotalSoldUnits: 4381,
       monthlyData: [
@@ -10066,7 +10066,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ef03239d40b0000d6",
-      productId: "63701d24f032390a34000329",
+      product: "63701d24f032390a34000329",
       yearlySalesTotal: 6371,
       yearlyTotalSoldUnits: 68,
       monthlyData: [
@@ -10408,7 +10408,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ef03239d40b0000d7",
-      productId: "63701d24f032390a3400032a",
+      product: "63701d24f032390a3400032a",
       yearlySalesTotal: 6612,
       yearlyTotalSoldUnits: 2642,
       monthlyData: [
@@ -10750,7 +10750,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ef03239d40b0000d8",
-      productId: "63701d24f032395b3300012a",
+      product: "63701d24f032395b3300012a",
       yearlySalesTotal: 2803,
       yearlyTotalSoldUnits: 2247,
       monthlyData: [
@@ -11092,7 +11092,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ff03239d40b0000d9",
-      productId: "63701d24f032395b3300012b",
+      product: "63701d24f032395b3300012b",
       yearlySalesTotal: 9751,
       yearlyTotalSoldUnits: 1501,
       monthlyData: [
@@ -11434,7 +11434,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ff03239d40b0000da",
-      productId: "63701d24f032395b3300012c",
+      product: "63701d24f032395b3300012c",
       yearlySalesTotal: 1810,
       yearlyTotalSoldUnits: 4730,
       monthlyData: [
@@ -11776,7 +11776,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "6371259ff03239d40b0000db",
-      productId: "63701d24f032395b3300012d",
+      product: "63701d24f032395b3300012d",
       yearlySalesTotal: 5256,
       yearlyTotalSoldUnits: 4776,
       monthlyData: [
@@ -12118,7 +12118,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "637125a0f03239d40b0000dc",
-      productId: "63701d25f03239d591000327",
+      product: "63701d25f03239d591000327",
       yearlySalesTotal: 2421,
       yearlyTotalSoldUnits: 4366,
       monthlyData: [
@@ -12460,7 +12460,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "637125a0f03239d40b0000dd",
-      productId: "63701d25f03239d591000328",
+      product: "63701d25f03239d591000328",
       yearlySalesTotal: 9959,
       yearlyTotalSoldUnits: 2071,
       monthlyData: [
@@ -12805,7 +12805,7 @@ exports.dataAffiliateStat = [
   exports.dataTransaction = [
     {
       _id: "63701d74f03239c72c000192",
-      userId: "63701cc1f032390a34000319",
+      user: "63701cc1f032390a34000319",
       cost: 3584.18,
       products: [
         "63701d24f03239db6900012a",
@@ -12816,13 +12816,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c000193",
-      userId: "63701cc1f032398675000129",
+      user: "63701cc1f032398675000129",
       cost: 2872.78,
       products: ["63701d24f03239d40b00004c"],
     },
     {
       _id: "63701d74f03239c72c000194",
-      userId: "63701cc1f03239528f00000d",
+      user: "63701cc1f03239528f00000d",
       cost: 3215.35,
       products: [
         "63701d25f03239d591000327",
@@ -12832,13 +12832,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c000195",
-      userId: "63701cc1f03239f09e000184",
+      user: "63701cc1f03239f09e000184",
       cost: 2639.18,
       products: ["63701d24f03239867500012c", "63701d24f03239d40b000053"],
     },
     {
       _id: "63701d74f03239c72c000196",
-      userId: "63701cc1f032396b8e000007",
+      user: "63701cc1f032396b8e000007",
       cost: 3944.07,
       products: [
         "63701d24f0323986f300012a",
@@ -12848,7 +12848,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c000197",
-      userId: "63701cc1f0323986f300011c",
+      user: "63701cc1f0323986f300011c",
       cost: 2828.05,
       products: [
         "63701d24f0323944410002ed",
@@ -12858,7 +12858,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c000198",
-      userId: "63701cc1f03239528f000014",
+      user: "63701cc1f03239528f000014",
       cost: 3898.69,
       products: [
         "63701d25f03239d59100032a",
@@ -12869,7 +12869,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c000199",
-      userId: "63701cc1f03239f09e00018c",
+      user: "63701cc1f03239f09e00018c",
       cost: 2838.72,
       products: [
         "63701d24f032394c4900012c",
@@ -12881,13 +12881,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c00019a",
-      userId: "63701cc1f0323986f3000120",
+      user: "63701cc1f0323986f3000120",
       cost: 2113.01,
       products: ["63701d24f032395b3300012d"],
     },
     {
       _id: "63701d74f03239c72c00019b",
-      userId: "63701cc1f03239528f00000c",
+      user: "63701cc1f03239528f00000c",
       cost: 526.17,
       products: [
         "63701d24f03239db6900012c",
@@ -12899,7 +12899,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c00019c",
-      userId: "63701cc1f032390a34000322",
+      user: "63701cc1f032390a34000322",
       cost: 2455.22,
       products: [
         "63701d24f032399c0000012c",
@@ -12910,7 +12910,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c00019d",
-      userId: "63701cc1f03239cdc5000006",
+      user: "63701cc1f03239cdc5000006",
       cost: 479.22,
       products: [
         "63701d24f032395b3300012a",
@@ -12920,7 +12920,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c00019e",
-      userId: "63701cc1f03239569400000b",
+      user: "63701cc1f03239569400000b",
       cost: 2678.42,
       products: [
         "63701d24f03239b913000018",
@@ -12931,7 +12931,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c00019f",
-      userId: "63701cc1f032394c4900011e",
+      user: "63701cc1f032394c4900011e",
       cost: 1213.83,
       products: [
         "63701d24f032399c0000012b",
@@ -12943,7 +12943,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001a0",
-      userId: "63701cc1f032390a34000320",
+      user: "63701cc1f032390a34000320",
       cost: 350.07,
       products: [
         "63701d24f03239c72c000191",
@@ -12953,25 +12953,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001a1",
-      userId: "63701cc1f03239b91300000f",
+      user: "63701cc1f03239b91300000f",
       cost: 2640.21,
       products: ["63701d24f03239bef000012a", "63701d24f03239528f000018"],
     },
     {
       _id: "63701d74f03239c72c0001a2",
-      userId: "63701cc1f03239db69000128",
+      user: "63701cc1f03239db69000128",
       cost: 2719.34,
       products: ["63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239c72c0001a3",
-      userId: "63701cc1f03239bef0000127",
+      user: "63701cc1f03239bef0000127",
       cost: 2010.31,
       products: ["63701d24f032390a34000329", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f03239c72c0001a4",
-      userId: "63701cc1f03239bef0000129",
+      user: "63701cc1f03239bef0000129",
       cost: 3332.39,
       products: [
         "63701d24f03239bef000012d",
@@ -12983,13 +12983,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001a5",
-      userId: "63701cc1f03239d81e000014",
+      user: "63701cc1f03239d81e000014",
       cost: 1417.86,
       products: ["63701d24f03239b913000015"],
     },
     {
       _id: "63701d74f03239c72c0001a6",
-      userId: "63701cc1f032390a3400031f",
+      user: "63701cc1f032390a3400031f",
       cost: 2771.08,
       products: [
         "63701d24f03239d81e000017",
@@ -12999,7 +12999,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001a7",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       cost: 2866.23,
       products: [
         "63701d24f03239d81e000018",
@@ -13009,31 +13009,31 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001a8",
-      userId: "63701cc1f0323944410002de",
+      user: "63701cc1f0323944410002de",
       cost: 3430.65,
       products: ["63701d24f03239b913000017", "63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f03239c72c0001a9",
-      userId: "63701cc1f03239d591000323",
+      user: "63701cc1f03239d591000323",
       cost: 1012.62,
       products: ["63701d24f032394c4900012d"],
     },
     {
       _id: "63701d74f03239c72c0001aa",
-      userId: "63701cc1f03239bef0000124",
+      user: "63701cc1f03239bef0000124",
       cost: 2666,
       products: ["63701d24f03239f09e000191", "63701d24f03239f09e00018e"],
     },
     {
       _id: "63701d74f03239c72c0001ab",
-      userId: "63701cc1f03239d40b00003c",
+      user: "63701cc1f03239d40b00003c",
       cost: 39.18,
       products: ["63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f03239c72c0001ac",
-      userId: "63701cc1f032395b33000128",
+      user: "63701cc1f032395b33000128",
       cost: 2028.64,
       products: [
         "63701d24f03239c72c000190",
@@ -13045,13 +13045,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001ad",
-      userId: "63701cc1f032390a34000319",
+      user: "63701cc1f032390a34000319",
       cost: 2666.12,
       products: ["63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239c72c0001ae",
-      userId: "63701cc1f03239b7f700000e",
+      user: "63701cc1f03239b7f700000e",
       cost: 601.72,
       products: [
         "63701d24f032399c0000012c",
@@ -13062,13 +13062,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001af",
-      userId: "63701cc1f032398675000122",
+      user: "63701cc1f032398675000122",
       cost: 2163.31,
       products: ["63701d24f03239cdc5000016"],
     },
     {
       _id: "63701d74f03239c72c0001b0",
-      userId: "63701cc1f032398675000126",
+      user: "63701cc1f032398675000126",
       cost: 2146.86,
       products: [
         "63701d24f032395694000018",
@@ -13078,7 +13078,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001b1",
-      userId: "63701cc1f03239bef0000125",
+      user: "63701cc1f03239bef0000125",
       cost: 3531.1,
       products: [
         "63701d24f03239bef000012a",
@@ -13089,13 +13089,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001b2",
-      userId: "63701cc1f03239bef0000120",
+      user: "63701cc1f03239bef0000120",
       cost: 1702.37,
       products: ["63701d24f032395b3300012c", "63701d24f032395694000015"],
     },
     {
       _id: "63701d74f03239c72c0001b3",
-      userId: "63701cc1f032396b8e000013",
+      user: "63701cc1f032396b8e000013",
       cost: 1681.56,
       products: [
         "63701d24f03239f09e000190",
@@ -13107,7 +13107,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001b4",
-      userId: "63701cc1f032396b8e00000b",
+      user: "63701cc1f032396b8e00000b",
       cost: 1530.11,
       products: [
         "63701d24f03239d40b00004d",
@@ -13117,19 +13117,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001b5",
-      userId: "63701cc1f03239f09e000183",
+      user: "63701cc1f03239f09e000183",
       cost: 394.26,
       products: ["63701d24f03239d40b000050", "63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f03239c72c0001b6",
-      userId: "63701cc1f03239b91300000b",
+      user: "63701cc1f03239b91300000b",
       cost: 2979.19,
       products: ["63701d25f03239d591000329"],
     },
     {
       _id: "63701d74f03239c72c0001b7",
-      userId: "63701cc1f032395b33000120",
+      user: "63701cc1f032395b33000120",
       cost: 1277.12,
       products: [
         "63701d24f03239cdc5000018",
@@ -13140,13 +13140,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001b8",
-      userId: "63701cc1f032399c00000124",
+      user: "63701cc1f032399c00000124",
       cost: 46.81,
       products: ["63701d25f03239d591000327"],
     },
     {
       _id: "63701d74f03239c72c0001b9",
-      userId: "63701cc1f032390a34000325",
+      user: "63701cc1f032390a34000325",
       cost: 2664.34,
       products: [
         "63701d24f03239cdc5000015",
@@ -13158,25 +13158,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001ba",
-      userId: "63701cc1f03239b7f7000011",
+      user: "63701cc1f03239b7f7000011",
       cost: 3066.85,
       products: ["63701d24f03239528f000017", "63701d24f0323944410002ef"],
     },
     {
       _id: "63701d74f03239c72c0001bb",
-      userId: "63701cc1f03239db69000123",
+      user: "63701cc1f03239db69000123",
       cost: 1638.82,
       products: ["63701d24f03239b913000017", "63701d24f0323944410002ec"],
     },
     {
       _id: "63701d74f03239c72c0001bc",
-      userId: "63701cc1f03239db69000127",
+      user: "63701cc1f03239db69000127",
       cost: 1165.64,
       products: ["63701d24f032394c4900012a", "63701d24f03239b7f7000016"],
     },
     {
       _id: "63701d74f03239c72c0001bd",
-      userId: "63701cc1f0323944410002e2",
+      user: "63701cc1f0323944410002e2",
       cost: 2329.2,
       products: [
         "63701d24f03239d40b00004c",
@@ -13188,7 +13188,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001be",
-      userId: "63701cc1f032395b33000121",
+      user: "63701cc1f032395b33000121",
       cost: 1378.31,
       products: [
         "63701d24f03239d40b00004b",
@@ -13199,7 +13199,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239c72c0001bf",
-      userId: "63701cc1f0323944410002e8",
+      user: "63701cc1f0323944410002e8",
       cost: 3395.92,
       products: [
         "63701d24f03239d40b000048",
@@ -13210,19 +13210,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500012e",
-      userId: "63701cc1f03239b7f7000014",
+      user: "63701cc1f03239b7f7000014",
       cost: 3934.55,
       products: ["63701d24f03239b913000018", "63701d24f03239d81e000018"],
     },
     {
       _id: "63701d74f03239867500012f",
-      userId: "63701cc1f03239d81e00000b",
+      user: "63701cc1f03239d81e00000b",
       cost: 1650.67,
       products: ["63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f032398675000130",
-      userId: "63701cc1f032394c49000129",
+      user: "63701cc1f032394c49000129",
       cost: 2428.57,
       products: [
         "63701d24f032394c4900012b",
@@ -13234,7 +13234,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000131",
-      userId: "63701cc1f03239528f000010",
+      user: "63701cc1f03239528f000010",
       cost: 2996.52,
       products: [
         "63701d24f032395694000017",
@@ -13244,7 +13244,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000132",
-      userId: "63701cc1f03239b7f700000f",
+      user: "63701cc1f03239b7f700000f",
       cost: 1028.7,
       products: [
         "63701d24f03239b913000015",
@@ -13255,7 +13255,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000133",
-      userId: "63701cc1f032394c4900011e",
+      user: "63701cc1f032394c4900011e",
       cost: 3463.58,
       products: [
         "63701d24f03239d40b000055",
@@ -13267,7 +13267,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000134",
-      userId: "63701cc1f03239c72c000188",
+      user: "63701cc1f03239c72c000188",
       cost: 1434.83,
       products: [
         "63701d24f0323986f300012b",
@@ -13279,7 +13279,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000135",
-      userId: "63701cc1f03239db69000120",
+      user: "63701cc1f03239db69000120",
       cost: 3925.03,
       products: [
         "63701d24f03239db6900012a",
@@ -13289,7 +13289,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000136",
-      userId: "63701cc1f03239f09e00018d",
+      user: "63701cc1f03239f09e00018d",
       cost: 2473.8,
       products: [
         "63701d24f032395694000015",
@@ -13301,7 +13301,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000137",
-      userId: "63701cc1f032390a34000318",
+      user: "63701cc1f032390a34000318",
       cost: 3117.84,
       products: [
         "63701d24f032394c4900012a",
@@ -13313,7 +13313,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000138",
-      userId: "63701cc1f03239528f000014",
+      user: "63701cc1f03239528f000014",
       cost: 15.81,
       products: [
         "63701d24f032390a3400032a",
@@ -13324,13 +13324,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000139",
-      userId: "63701cc1f0323986f3000122",
+      user: "63701cc1f0323986f3000122",
       cost: 2986.56,
       products: ["63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f03239867500013a",
-      userId: "63701cc1f0323986f300011f",
+      user: "63701cc1f0323986f300011f",
       cost: 3280.18,
       products: [
         "63701d24f032394c4900012b",
@@ -13341,13 +13341,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500013b",
-      userId: "63701cc1f03239d59100031e",
+      user: "63701cc1f03239d59100031e",
       cost: 448.24,
       products: ["63701d24f03239f09e000190"],
     },
     {
       _id: "63701d74f03239867500013c",
-      userId: "63701cc1f03239bef000011f",
+      user: "63701cc1f03239bef000011f",
       cost: 252.67,
       products: [
         "63701d24f032396b8e000017",
@@ -13359,7 +13359,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500013d",
-      userId: "63701cc1f03239c72c000189",
+      user: "63701cc1f03239c72c000189",
       cost: 1047.45,
       products: [
         "63701d24f032395b3300012d",
@@ -13371,7 +13371,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500013e",
-      userId: "63701cc1f03239db6900011f",
+      user: "63701cc1f03239db6900011f",
       cost: 1004.06,
       products: [
         "63701d24f03239d40b000054",
@@ -13382,7 +13382,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500013f",
-      userId: "63701cc1f03239b913000010",
+      user: "63701cc1f03239b913000010",
       cost: 322.72,
       products: [
         "63701d24f032395b3300012c",
@@ -13394,7 +13394,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000140",
-      userId: "63701cc1f0323944410002de",
+      user: "63701cc1f0323944410002de",
       cost: 404.7,
       products: [
         "63701d24f03239d40b000053",
@@ -13404,7 +13404,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000141",
-      userId: "63701cc1f03239d59100031d",
+      user: "63701cc1f03239d59100031d",
       cost: 1349.65,
       products: [
         "63701d24f03239d40b000048",
@@ -13415,13 +13415,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000142",
-      userId: "63701cc1f032396b8e000006",
+      user: "63701cc1f032396b8e000006",
       cost: 311.93,
       products: ["63701d24f03239f09e00018f"],
     },
     {
       _id: "63701d74f032398675000143",
-      userId: "63701cc1f03239b913000009",
+      user: "63701cc1f03239b913000009",
       cost: 3087.45,
       products: [
         "63701d24f03239b913000017",
@@ -13432,13 +13432,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000144",
-      userId: "63701cc1f03239f09e000184",
+      user: "63701cc1f03239f09e000184",
       cost: 1824.33,
       products: ["63701d24f032399c0000012a"],
     },
     {
       _id: "63701d74f032398675000145",
-      userId: "63701cc1f032390a34000319",
+      user: "63701cc1f032390a34000319",
       cost: 3238.44,
       products: [
         "63701d24f03239867500012a",
@@ -13449,7 +13449,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000146",
-      userId: "63701cc1f032390a34000324",
+      user: "63701cc1f032390a34000324",
       cost: 741.08,
       products: [
         "63701d24f03239cdc5000018",
@@ -13460,13 +13460,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000147",
-      userId: "63701cc1f0323986f3000124",
+      user: "63701cc1f0323986f3000124",
       cost: 1416.51,
       products: ["63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f032398675000148",
-      userId: "63701cc1f03239d40b000046",
+      user: "63701cc1f03239d40b000046",
       cost: 2765.52,
       products: [
         "63701d24f03239867500012c",
@@ -13476,19 +13476,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000149",
-      userId: "63701cc1f03239c72c00018c",
+      user: "63701cc1f03239c72c00018c",
       cost: 3616.77,
       products: ["63701d24f03239bef000012d"],
     },
     {
       _id: "63701d74f03239867500014a",
-      userId: "63701cc1f03239d591000320",
+      user: "63701cc1f03239d591000320",
       cost: 2867.59,
       products: ["63701d24f032399c0000012b", "63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239867500014b",
-      userId: "63701cc1f03239d59100031e",
+      user: "63701cc1f03239d59100031e",
       cost: 1856.78,
       products: [
         "63701d24f0323986f300012d",
@@ -13499,7 +13499,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500014c",
-      userId: "63701cc1f032390a3400031f",
+      user: "63701cc1f032390a3400031f",
       cost: 1895.99,
       products: [
         "63701d24f032394c4900012b",
@@ -13509,13 +13509,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500014d",
-      userId: "63701cc1f03239b913000007",
+      user: "63701cc1f03239b913000007",
       cost: 2642.94,
       products: ["63701d24f03239b913000018"],
     },
     {
       _id: "63701d74f03239867500014e",
-      userId: "63701cc1f0323944410002eb",
+      user: "63701cc1f0323944410002eb",
       cost: 1513.8,
       products: [
         "63701d24f03239c72c00018e",
@@ -13527,7 +13527,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500014f",
-      userId: "63701cc1f03239b91300000d",
+      user: "63701cc1f03239b91300000d",
       cost: 1729.13,
       products: [
         "63701d24f03239c72c00018f",
@@ -13537,25 +13537,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000150",
-      userId: "63701cc1f032390a34000318",
+      user: "63701cc1f032390a34000318",
       cost: 2249.24,
       products: ["63701d24f03239d40b00004b"],
     },
     {
       _id: "63701d74f032398675000151",
-      userId: "63701cc1f0323986f300011b",
+      user: "63701cc1f0323986f300011b",
       cost: 326.45,
       products: ["63701d24f03239f09e00018e", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f032398675000152",
-      userId: "63701cc1f03239d81e000010",
+      user: "63701cc1f03239d81e000010",
       cost: 442.46,
       products: ["63701d24f03239bef000012a", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032398675000153",
-      userId: "63701cc1f03239d81e000007",
+      user: "63701cc1f03239d81e000007",
       cost: 1839.71,
       products: [
         "63701d24f03239867500012c",
@@ -13566,31 +13566,31 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000154",
-      userId: "63701cc1f03239cdc500000f",
+      user: "63701cc1f03239cdc500000f",
       cost: 1984.49,
       products: ["63701d24f0323986f300012c", "63701d24f03239b913000017"],
     },
     {
       _id: "63701d74f032398675000155",
-      userId: "63701cc1f032396b8e000012",
+      user: "63701cc1f032396b8e000012",
       cost: 740.68,
       products: ["63701d24f032395b3300012a", "63701d24f032390a34000328"],
     },
     {
       _id: "63701d74f032398675000156",
-      userId: "63701cc1f03239cdc5000014",
+      user: "63701cc1f03239cdc5000014",
       cost: 326.64,
       products: ["63701d24f03239f09e000190", "63701d24f03239f09e00018f"],
     },
     {
       _id: "63701d74f032398675000157",
-      userId: "63701cc1f03239db69000120",
+      user: "63701cc1f03239db69000120",
       cost: 12.77,
       products: ["63701d24f03239db6900012d", "63701d24f03239db6900012a"],
     },
     {
       _id: "63701d74f032398675000158",
-      userId: "63701cc1f03239d40b000040",
+      user: "63701cc1f03239d40b000040",
       cost: 1669.08,
       products: [
         "63701d24f032390a34000329",
@@ -13600,7 +13600,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032398675000159",
-      userId: "63701cc1f03239b7f7000008",
+      user: "63701cc1f03239b7f7000008",
       cost: 3730.68,
       products: [
         "63701d24f03239867500012a",
@@ -13611,19 +13611,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239867500015a",
-      userId: "63701cc1f03239b7f700000e",
+      user: "63701cc1f03239b7f700000e",
       cost: 2928.08,
       products: ["63701d24f03239d81e000017", "63701d24f0323944410002ed"],
     },
     {
       _id: "63701d74f03239867500015b",
-      userId: "63701cc1f03239cdc500000a",
+      user: "63701cc1f03239cdc500000a",
       cost: 2068.11,
       products: ["63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239b7f7000019",
-      userId: "63701cc1f03239569400000d",
+      user: "63701cc1f03239569400000d",
       cost: 2503.88,
       products: [
         "63701d25f03239d591000328",
@@ -13633,13 +13633,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700001a",
-      userId: "63701cc1f032395b33000123",
+      user: "63701cc1f032395b33000123",
       cost: 2318.07,
       products: ["63701d24f032394c4900012c", "63701d24f03239b7f7000015"],
     },
     {
       _id: "63701d74f03239b7f700001b",
-      userId: "63701cc1f03239528f000007",
+      user: "63701cc1f03239528f000007",
       cost: 3282.35,
       products: [
         "63701d24f032399c0000012b",
@@ -13650,13 +13650,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700001c",
-      userId: "63701cc1f03239c72c000182",
+      user: "63701cc1f03239c72c000182",
       cost: 1347.43,
       products: ["63701d24f032399c0000012d"],
     },
     {
       _id: "63701d74f03239b7f700001d",
-      userId: "63701cc1f032399c0000011b",
+      user: "63701cc1f032399c0000011b",
       cost: 874.77,
       products: [
         "63701d24f03239867500012d",
@@ -13667,7 +13667,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700001e",
-      userId: "63701cc1f032394c4900011b",
+      user: "63701cc1f032394c4900011b",
       cost: 2835.28,
       products: [
         "63701d24f032395694000016",
@@ -13679,19 +13679,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700001f",
-      userId: "63701cc1f03239db69000127",
+      user: "63701cc1f03239db69000127",
       cost: 2192.19,
       products: ["63701d24f03239528f000016", "63701d24f0323944410002ee"],
     },
     {
       _id: "63701d74f03239b7f7000020",
-      userId: "63701cc1f03239db6900011d",
+      user: "63701cc1f03239db6900011d",
       cost: 669.23,
       products: ["63701d24f032396b8e000018"],
     },
     {
       _id: "63701d74f03239b7f7000021",
-      userId: "63701cc1f0323944410002e0",
+      user: "63701cc1f0323944410002e0",
       cost: 1093.3,
       products: [
         "63701d24f032395694000015",
@@ -13703,7 +13703,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000022",
-      userId: "63701cc1f03239bef0000123",
+      user: "63701cc1f03239bef0000123",
       cost: 1630.72,
       products: [
         "63701d24f0323944410002ef",
@@ -13714,7 +13714,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000023",
-      userId: "63701cc1f032396b8e00000f",
+      user: "63701cc1f032396b8e00000f",
       cost: 776.76,
       products: [
         "63701d24f032396b8e000018",
@@ -13724,25 +13724,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000024",
-      userId: "63701cc1f032395694000012",
+      user: "63701cc1f032395694000012",
       cost: 2559.5,
       products: ["63701d24f032394c4900012c"],
     },
     {
       _id: "63701d74f03239b7f7000025",
-      userId: "63701cc1f03239db69000123",
+      user: "63701cc1f03239db69000123",
       cost: 83.04,
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f03239b7f7000026",
-      userId: "63701cc1f03239db69000125",
+      user: "63701cc1f03239db69000125",
       cost: 2729.82,
       products: ["63701d24f0323986f300012d", "63701d24f03239b913000018"],
     },
     {
       _id: "63701d74f03239b7f7000027",
-      userId: "63701cc1f03239528f00000b",
+      user: "63701cc1f03239528f00000b",
       cost: 3419.77,
       products: [
         "63701d24f032396b8e000015",
@@ -13754,13 +13754,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000028",
-      userId: "63701cc1f03239d591000320",
+      user: "63701cc1f03239d591000320",
       cost: 1219.98,
       products: ["63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f03239b7f7000029",
-      userId: "63701cc1f03239d81e00000c",
+      user: "63701cc1f03239d81e00000c",
       cost: 2797.14,
       products: [
         "63701d24f03239d40b00004c",
@@ -13771,7 +13771,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700002a",
-      userId: "63701cc1f03239b7f7000011",
+      user: "63701cc1f03239b7f7000011",
       cost: 3971.67,
       products: [
         "63701d24f03239bef000012b",
@@ -13782,13 +13782,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700002b",
-      userId: "63701cc1f03239f09e00018a",
+      user: "63701cc1f03239f09e00018a",
       cost: 923.63,
       products: ["63701d24f03239d40b000051", "63701d24f03239867500012d"],
     },
     {
       _id: "63701d74f03239b7f700002c",
-      userId: "63701cc1f03239f09e00017f",
+      user: "63701cc1f03239f09e00017f",
       cost: 1756.36,
       products: [
         "63701d24f03239cdc5000015",
@@ -13800,13 +13800,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700002d",
-      userId: "63701cc1f0323986f300011d",
+      user: "63701cc1f0323986f300011d",
       cost: 3323.5,
       products: ["63701d25f03239d59100032a", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f03239b7f700002e",
-      userId: "63701cc1f03239d591000326",
+      user: "63701cc1f03239d591000326",
       cost: 2546.93,
       products: [
         "63701d24f03239d81e000018",
@@ -13816,19 +13816,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700002f",
-      userId: "63701cc1f032399c00000123",
+      user: "63701cc1f032399c00000123",
       cost: 1720.08,
       products: ["63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f03239b7f7000030",
-      userId: "63701cc1f03239cdc500000c",
+      user: "63701cc1f03239cdc500000c",
       cost: 1035.65,
       products: ["63701d25f03239d591000329", "63701d24f03239b7f7000017"],
     },
     {
       _id: "63701d74f03239b7f7000031",
-      userId: "63701cc1f0323986f3000122",
+      user: "63701cc1f0323986f3000122",
       cost: 223.87,
       products: [
         "63701d24f032395694000018",
@@ -13838,7 +13838,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000032",
-      userId: "63701cc1f03239d59100031d",
+      user: "63701cc1f03239d59100031d",
       cost: 2962.55,
       products: [
         "63701d24f032399c0000012d",
@@ -13850,7 +13850,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000033",
-      userId: "63701cc1f032390a34000326",
+      user: "63701cc1f032390a34000326",
       cost: 3538.76,
       products: [
         "63701d24f03239db6900012a",
@@ -13862,13 +13862,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000034",
-      userId: "63701cc1f032394c4900011b",
+      user: "63701cc1f032394c4900011b",
       cost: 3134.54,
       products: ["63701d24f0323944410002ec"],
     },
     {
       _id: "63701d74f03239b7f7000035",
-      userId: "63701cc1f03239528f00000c",
+      user: "63701cc1f03239528f00000c",
       cost: 1017.55,
       products: [
         "63701d24f03239db6900012d",
@@ -13878,13 +13878,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000036",
-      userId: "63701cc1f03239db69000120",
+      user: "63701cc1f03239db69000120",
       cost: 1800.07,
       products: ["63701d24f03239f09e00018f"],
     },
     {
       _id: "63701d74f03239b7f7000037",
-      userId: "63701cc1f03239528f00000a",
+      user: "63701cc1f03239528f00000a",
       cost: 2370.96,
       products: [
         "63701d24f032396b8e000016",
@@ -13894,7 +13894,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000038",
-      userId: "63701cc1f032394c49000121",
+      user: "63701cc1f032394c49000121",
       cost: 3861.7,
       products: [
         "63701d24f03239528f000015",
@@ -13904,13 +13904,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000039",
-      userId: "63701cc1f032390a3400031f",
+      user: "63701cc1f032390a3400031f",
       cost: 1701.46,
       products: ["63701d24f032390a34000329", "63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f03239b7f700003a",
-      userId: "63701cc1f032395694000013",
+      user: "63701cc1f032395694000013",
       cost: 2136.5,
       products: [
         "63701d24f03239d81e000015",
@@ -13922,7 +13922,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700003b",
-      userId: "63701cc1f03239cdc5000012",
+      user: "63701cc1f03239cdc5000012",
       cost: 2035.98,
       products: [
         "63701d24f03239d40b00004f",
@@ -13932,7 +13932,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700003c",
-      userId: "63701cc1f03239f09e00018b",
+      user: "63701cc1f03239f09e00018b",
       cost: 61.48,
       products: [
         "63701d24f032390a34000329",
@@ -13944,13 +13944,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700003d",
-      userId: "63701cc1f03239cdc5000014",
+      user: "63701cc1f03239cdc5000014",
       cost: 2872.61,
       products: ["63701d24f032390a3400032a", "63701d24f03239867500012c"],
     },
     {
       _id: "63701d74f03239b7f700003e",
-      userId: "63701cc1f032396b8e000010",
+      user: "63701cc1f032396b8e000010",
       cost: 1588.75,
       products: [
         "63701d24f03239867500012b",
@@ -13960,7 +13960,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f700003f",
-      userId: "63701cc1f032396b8e00000c",
+      user: "63701cc1f032396b8e00000c",
       cost: 1521.71,
       products: [
         "63701d24f03239db6900012c",
@@ -13971,7 +13971,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000040",
-      userId: "63701cc1f0323986f300011d",
+      user: "63701cc1f0323986f300011d",
       cost: 1589.39,
       products: [
         "63701d24f03239528f000016",
@@ -13983,13 +13983,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000041",
-      userId: "63701cc1f0323944410002df",
+      user: "63701cc1f0323944410002df",
       cost: 2292.43,
       products: ["63701d24f03239bef000012b", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f03239b7f7000042",
-      userId: "63701cc1f03239d81e000014",
+      user: "63701cc1f03239d81e000014",
       cost: 2654.51,
       products: [
         "63701d24f0323986f300012c",
@@ -14000,25 +14000,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239b7f7000043",
-      userId: "63701cc1f032394c49000129",
+      user: "63701cc1f032394c49000129",
       cost: 3021.81,
       products: ["63701d24f03239d40b00004c", "63701d24f03239db6900012d"],
     },
     {
       _id: "63701d74f03239b7f7000044",
-      userId: "63701cc1f032394c49000121",
+      user: "63701cc1f032394c49000121",
       cost: 1008.2,
       products: ["63701d24f03239d40b000056", "63701d24f03239b913000015"],
     },
     {
       _id: "63701d74f03239b7f7000045",
-      userId: "63701cc1f03239b7f700000b",
+      user: "63701cc1f03239b7f700000b",
       cost: 3199.09,
       products: ["63701d24f032396b8e000018"],
     },
     {
       _id: "63701d74f03239b7f7000046",
-      userId: "63701cc1f03239bef000011e",
+      user: "63701cc1f03239bef000011e",
       cost: 2457.04,
       products: [
         "63701d24f03239d40b000053",
@@ -14028,7 +14028,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002f0",
-      userId: "63701cc1f032394c49000127",
+      user: "63701cc1f032394c49000127",
       cost: 1011.46,
       products: [
         "63701d25f03239d59100032a",
@@ -14039,19 +14039,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002f1",
-      userId: "63701cc1f03239867500011d",
+      user: "63701cc1f03239867500011d",
       cost: 400.92,
       products: ["63701d24f032395694000017"],
     },
     {
       _id: "63701d74f0323944410002f2",
-      userId: "63701cc1f03239d81e000007",
+      user: "63701cc1f03239d81e000007",
       cost: 272.9,
       products: ["63701d24f03239f09e000190", "63701d24f03239867500012a"],
     },
     {
       _id: "63701d74f0323944410002f3",
-      userId: "63701cc1f03239b913000007",
+      user: "63701cc1f03239b913000007",
       cost: 1751.19,
       products: [
         "63701d24f03239bef000012d",
@@ -14063,13 +14063,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002f4",
-      userId: "63701cc1f03239b7f700000f",
+      user: "63701cc1f03239b7f700000f",
       cost: 1045.99,
       products: ["63701d24f03239528f000015"],
     },
     {
       _id: "63701d74f0323944410002f5",
-      userId: "63701cc1f03239bef0000128",
+      user: "63701cc1f03239bef0000128",
       cost: 1720.34,
       products: [
         "63701d24f0323944410002ef",
@@ -14081,19 +14081,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002f6",
-      userId: "63701cc1f03239cdc500000c",
+      user: "63701cc1f03239cdc500000c",
       cost: 3682.05,
       products: ["63701d25f03239d591000329", "63701d25f03239d591000328"],
     },
     {
       _id: "63701d74f0323944410002f7",
-      userId: "63701cc1f03239d40b000045",
+      user: "63701cc1f03239d40b000045",
       cost: 711.15,
       products: ["63701d24f03239528f000017"],
     },
     {
       _id: "63701d74f0323944410002f8",
-      userId: "63701cc1f03239d81e000013",
+      user: "63701cc1f03239d81e000013",
       cost: 192.99,
       products: [
         "63701d24f03239d40b000047",
@@ -14105,7 +14105,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002f9",
-      userId: "63701cc1f03239d40b00003d",
+      user: "63701cc1f03239d40b00003d",
       cost: 1498.53,
       products: [
         "63701d24f032396b8e000015",
@@ -14115,7 +14115,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002fa",
-      userId: "63701cc1f03239d40b00003b",
+      user: "63701cc1f03239d40b00003b",
       cost: 937.92,
       products: [
         "63701d24f032399c0000012d",
@@ -14125,7 +14125,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002fb",
-      userId: "63701cc1f0323944410002e9",
+      user: "63701cc1f0323944410002e9",
       cost: 2191.37,
       products: [
         "63701d24f03239b7f7000017",
@@ -14135,19 +14135,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002fc",
-      userId: "63701cc1f03239d81e00000c",
+      user: "63701cc1f03239d81e00000c",
       cost: 1696.79,
       products: ["63701d24f03239b913000018", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f0323944410002fd",
-      userId: "63701cc1f03239867500011e",
+      user: "63701cc1f03239867500011e",
       cost: 341.97,
       products: ["63701d24f03239867500012c"],
     },
     {
       _id: "63701d74f0323944410002fe",
-      userId: "63701cc1f032398675000123",
+      user: "63701cc1f032398675000123",
       cost: 1379.87,
       products: [
         "63701d24f032395694000017",
@@ -14159,7 +14159,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f0323944410002ff",
-      userId: "63701cc1f03239b913000008",
+      user: "63701cc1f03239b913000008",
       cost: 180.64,
       products: [
         "63701d24f03239867500012d",
@@ -14170,7 +14170,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000300",
-      userId: "63701cc1f032394c4900011c",
+      user: "63701cc1f032394c4900011c",
       cost: 145.14,
       products: [
         "63701d24f03239d40b00004a",
@@ -14182,7 +14182,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000301",
-      userId: "63701cc1f03239d591000322",
+      user: "63701cc1f03239d591000322",
       cost: 3881.29,
       products: [
         "63701d24f032395b3300012d",
@@ -14193,13 +14193,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000302",
-      userId: "63701cc1f03239b913000011",
+      user: "63701cc1f03239b913000011",
       cost: 24.01,
       products: ["63701d25f03239d591000329"],
     },
     {
       _id: "63701d74f032394441000303",
-      userId: "63701cc1f03239528f00000d",
+      user: "63701cc1f03239528f00000d",
       cost: 1988.69,
       products: [
         "63701d24f032394c4900012d",
@@ -14210,13 +14210,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000304",
-      userId: "63701cc1f032398675000125",
+      user: "63701cc1f032398675000125",
       cost: 3909.76,
       products: ["63701d24f03239c72c000190", "63701d24f032396b8e000015"],
     },
     {
       _id: "63701d74f032394441000305",
-      userId: "63701cc1f03239d59100031c",
+      user: "63701cc1f03239d59100031c",
       cost: 20.45,
       products: [
         "63701d24f03239b7f7000015",
@@ -14228,7 +14228,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000306",
-      userId: "63701cc1f03239f09e000181",
+      user: "63701cc1f03239f09e000181",
       cost: 52.32,
       products: [
         "63701d24f03239528f000015",
@@ -14238,7 +14238,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000307",
-      userId: "63701cc1f03239c72c000185",
+      user: "63701cc1f03239c72c000185",
       cost: 2395.14,
       products: [
         "63701d24f03239cdc5000016",
@@ -14249,7 +14249,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000308",
-      userId: "63701cc1f03239569400000c",
+      user: "63701cc1f03239569400000c",
       cost: 393.18,
       products: [
         "63701d24f032395694000015",
@@ -14261,13 +14261,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000309",
-      userId: "63701cc1f03239c72c00017f",
+      user: "63701cc1f03239c72c00017f",
       cost: 1668.42,
       products: ["63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239444100030a",
-      userId: "63701cc1f03239b91300000e",
+      user: "63701cc1f03239b91300000e",
       cost: 2774.08,
       products: [
         "63701d24f032390a34000327",
@@ -14279,7 +14279,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100030b",
-      userId: "63701cc1f03239d81e00000b",
+      user: "63701cc1f03239d81e00000b",
       cost: 3241.98,
       products: [
         "63701d24f032399c0000012b",
@@ -14290,7 +14290,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100030c",
-      userId: "63701cc1f032390a3400031e",
+      user: "63701cc1f032390a3400031e",
       cost: 537.57,
       products: [
         "63701d24f032395b3300012c",
@@ -14301,13 +14301,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100030d",
-      userId: "63701cc1f032396b8e00000a",
+      user: "63701cc1f032396b8e00000a",
       cost: 3024.75,
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f03239444100030e",
-      userId: "63701cc1f03239528f000009",
+      user: "63701cc1f03239528f000009",
       cost: 882.19,
       products: [
         "63701d24f03239b913000015",
@@ -14318,7 +14318,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100030f",
-      userId: "63701cc1f0323944410002dd",
+      user: "63701cc1f0323944410002dd",
       cost: 3720.71,
       products: [
         "63701d24f03239d81e000016",
@@ -14328,13 +14328,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000310",
-      userId: "63701cc1f03239c72c000188",
+      user: "63701cc1f03239c72c000188",
       cost: 3040.09,
       products: ["63701d24f03239d40b000048"],
     },
     {
       _id: "63701d74f032394441000311",
-      userId: "63701cc1f0323944410002e5",
+      user: "63701cc1f0323944410002e5",
       cost: 273.86,
       products: [
         "63701d24f032394c4900012b",
@@ -14345,7 +14345,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000312",
-      userId: "63701cc1f032395b3300011e",
+      user: "63701cc1f032395b3300011e",
       cost: 1751.67,
       products: [
         "63701d24f03239d40b000056",
@@ -14357,7 +14357,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000313",
-      userId: "63701cc1f032395b3300011f",
+      user: "63701cc1f032395b3300011f",
       cost: 698.12,
       products: [
         "63701d24f0323986f300012d",
@@ -14367,19 +14367,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000314",
-      userId: "63701cc1f03239d81e000006",
+      user: "63701cc1f03239d81e000006",
       cost: 562.1,
       products: ["63701d24f03239d40b000052"],
     },
     {
       _id: "63701d74f032394441000315",
-      userId: "63701cc1f0323986f300011e",
+      user: "63701cc1f0323986f300011e",
       cost: 323.69,
       products: ["63701d24f032399c0000012c", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032394441000316",
-      userId: "63701cc1f0323944410002de",
+      user: "63701cc1f0323944410002de",
       cost: 1783.11,
       products: [
         "63701d24f0323944410002ef",
@@ -14391,19 +14391,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032394441000317",
-      userId: "63701cc1f03239d81e000007",
+      user: "63701cc1f03239d81e000007",
       cost: 307.78,
       products: ["63701d24f03239b913000018", "63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f032394441000318",
-      userId: "63701cc1f03239c72c000186",
+      user: "63701cc1f03239c72c000186",
       cost: 1941.33,
       products: ["63701d24f032394c4900012d", "63701d24f03239b913000015"],
     },
     {
       _id: "63701d74f032394441000319",
-      userId: "63701cc1f03239c72c000189",
+      user: "63701cc1f03239c72c000189",
       cost: 777.82,
       products: [
         "63701d24f032390a34000327",
@@ -14415,13 +14415,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100031a",
-      userId: "63701cc1f0323986f3000129",
+      user: "63701cc1f0323986f3000129",
       cost: 896.38,
       products: ["63701d24f03239867500012a"],
     },
     {
       _id: "63701d74f03239444100031b",
-      userId: "63701cc1f032390a3400031b",
+      user: "63701cc1f032390a3400031b",
       cost: 3993.14,
       products: [
         "63701d24f03239b913000016",
@@ -14432,7 +14432,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100031c",
-      userId: "63701cc1f03239867500011f",
+      user: "63701cc1f03239867500011f",
       cost: 2104.01,
       products: [
         "63701d24f032395b3300012c",
@@ -14442,19 +14442,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239444100031d",
-      userId: "63701cc1f03239bef000011b",
+      user: "63701cc1f03239bef000011b",
       cost: 1424.53,
       products: ["63701d24f03239c72c00018f"],
     },
     {
       _id: "63701d74f03239d81e000019",
-      userId: "63701cc1f03239b91300000b",
+      user: "63701cc1f03239b91300000b",
       cost: 1206.91,
       products: ["63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f03239d81e00001a",
-      userId: "63701cc1f03239db69000128",
+      user: "63701cc1f03239db69000128",
       cost: 2593.32,
       products: [
         "63701d24f03239528f000016",
@@ -14466,7 +14466,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00001b",
-      userId: "63701cc1f032399c00000127",
+      user: "63701cc1f032399c00000127",
       cost: 441.63,
       products: [
         "63701d24f03239bef000012b",
@@ -14477,7 +14477,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00001c",
-      userId: "63701cc1f03239f09e000185",
+      user: "63701cc1f03239f09e000185",
       cost: 3543.34,
       products: [
         "63701d24f03239db6900012c",
@@ -14489,7 +14489,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00001d",
-      userId: "63701cc1f03239528f00000f",
+      user: "63701cc1f03239528f00000f",
       cost: 927.82,
       products: [
         "63701d24f03239c72c000190",
@@ -14501,19 +14501,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00001e",
-      userId: "63701cc1f03239c72c000180",
+      user: "63701cc1f03239c72c000180",
       cost: 659.42,
       products: ["63701d24f032395694000017", "63701d25f03239d591000327"],
     },
     {
       _id: "63701d74f03239d81e00001f",
-      userId: "63701cc1f0323944410002eb",
+      user: "63701cc1f0323944410002eb",
       cost: 1523.55,
       products: ["63701d24f03239d40b00004e"],
     },
     {
       _id: "63701d74f03239d81e000020",
-      userId: "63701cc1f032395b3300011b",
+      user: "63701cc1f032395b3300011b",
       cost: 1236.25,
       products: [
         "63701d24f03239b7f7000016",
@@ -14523,7 +14523,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000021",
-      userId: "63701cc1f032399c00000128",
+      user: "63701cc1f032399c00000128",
       cost: 2512.96,
       products: [
         "63701d24f03239f09e000190",
@@ -14535,7 +14535,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000022",
-      userId: "63701cc1f03239b7f700000b",
+      user: "63701cc1f03239b7f700000b",
       cost: 2015.04,
       products: [
         "63701d24f03239f09e00018e",
@@ -14546,13 +14546,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000023",
-      userId: "63701cc1f032390a3400031e",
+      user: "63701cc1f032390a3400031e",
       cost: 1171.28,
       products: ["63701d24f03239d81e000017"],
     },
     {
       _id: "63701d74f03239d81e000024",
-      userId: "63701cc1f03239db69000129",
+      user: "63701cc1f03239db69000129",
       cost: 2576.39,
       products: [
         "63701d25f03239d591000329",
@@ -14563,7 +14563,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000025",
-      userId: "63701cc1f03239b7f7000012",
+      user: "63701cc1f03239b7f7000012",
       cost: 479,
       products: [
         "63701d24f0323986f300012c",
@@ -14575,7 +14575,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000026",
-      userId: "63701cc1f03239b913000010",
+      user: "63701cc1f03239b913000010",
       cost: 658.96,
       products: [
         "63701d24f03239db6900012a",
@@ -14585,19 +14585,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000027",
-      userId: "63701cc1f032396b8e000012",
+      user: "63701cc1f032396b8e000012",
       cost: 3673.32,
       products: ["63701d24f0323944410002ee", "63701d24f03239d40b000055"],
     },
     {
       _id: "63701d74f03239d81e000028",
-      userId: "63701cc1f03239f09e00018c",
+      user: "63701cc1f03239f09e00018c",
       cost: 3012.39,
       products: ["63701d24f0323986f300012a", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f03239d81e000029",
-      userId: "63701cc1f032395694000010",
+      user: "63701cc1f032395694000010",
       cost: 3655.64,
       products: [
         "63701d24f03239b7f7000017",
@@ -14607,7 +14607,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00002a",
-      userId: "63701cc1f03239cdc500000f",
+      user: "63701cc1f03239cdc500000f",
       cost: 2519.39,
       products: [
         "63701d24f03239528f000018",
@@ -14617,25 +14617,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00002b",
-      userId: "63701cc1f03239d40b000038",
+      user: "63701cc1f03239d40b000038",
       cost: 3852.49,
       products: ["63701d24f032395b3300012b"],
     },
     {
       _id: "63701d74f03239d81e00002c",
-      userId: "63701cc1f032395b3300011b",
+      user: "63701cc1f032395b3300011b",
       cost: 1390.8,
       products: ["63701d24f032395694000018"],
     },
     {
       _id: "63701d74f03239d81e00002d",
-      userId: "63701cc1f03239528f000008",
+      user: "63701cc1f03239528f000008",
       cost: 3458.65,
       products: ["63701d24f032394c4900012a"],
     },
     {
       _id: "63701d74f03239d81e00002e",
-      userId: "63701cc1f03239528f000012",
+      user: "63701cc1f03239528f000012",
       cost: 1891.32,
       products: [
         "63701d24f03239bef000012b",
@@ -14645,19 +14645,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00002f",
-      userId: "63701cc1f03239bef000011d",
+      user: "63701cc1f03239bef000011d",
       cost: 175.66,
       products: ["63701d24f03239cdc5000016"],
     },
     {
       _id: "63701d74f03239d81e000030",
-      userId: "63701cc1f0323986f300011b",
+      user: "63701cc1f0323986f300011b",
       cost: 3556.56,
       products: ["63701d24f03239867500012b", "63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f03239d81e000031",
-      userId: "63701cc1f03239b7f7000013",
+      user: "63701cc1f03239b7f7000013",
       cost: 255.71,
       products: [
         "63701d24f032399c0000012d",
@@ -14669,7 +14669,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000032",
-      userId: "63701cc1f03239bef000011b",
+      user: "63701cc1f03239bef000011b",
       cost: 2976.32,
       products: [
         "63701d24f03239d40b00004b",
@@ -14681,7 +14681,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000033",
-      userId: "63701cc1f03239cdc5000013",
+      user: "63701cc1f03239cdc5000013",
       cost: 2149.4,
       products: [
         "63701d24f03239f09e000191",
@@ -14691,13 +14691,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000034",
-      userId: "63701cc1f032390a34000326",
+      user: "63701cc1f032390a34000326",
       cost: 742.71,
       products: ["63701d24f032395694000015"],
     },
     {
       _id: "63701d74f03239d81e000035",
-      userId: "63701cc1f032394c4900011c",
+      user: "63701cc1f032394c4900011c",
       cost: 2371.02,
       products: [
         "63701d24f032390a34000328",
@@ -14708,13 +14708,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000036",
-      userId: "63701cc1f03239d40b000046",
+      user: "63701cc1f03239d40b000046",
       cost: 494.3,
       products: ["63701d24f03239867500012d", "63701d24f0323944410002ed"],
     },
     {
       _id: "63701d74f03239d81e000037",
-      userId: "63701cc1f0323986f3000120",
+      user: "63701cc1f0323986f3000120",
       cost: 1794.9,
       products: [
         "63701d24f03239d81e000017",
@@ -14725,7 +14725,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000038",
-      userId: "63701cc1f03239d591000322",
+      user: "63701cc1f03239d591000322",
       cost: 2760.45,
       products: [
         "63701d24f032396b8e000017",
@@ -14736,13 +14736,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000039",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       cost: 1961.93,
       products: ["63701d24f03239d81e000018"],
     },
     {
       _id: "63701d74f03239d81e00003a",
-      userId: "63701cc1f03239d59100031b",
+      user: "63701cc1f03239d59100031b",
       cost: 1201.56,
       products: [
         "63701d24f03239b913000017",
@@ -14753,7 +14753,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00003b",
-      userId: "63701cc1f03239d591000323",
+      user: "63701cc1f03239d591000323",
       cost: 1550.04,
       products: [
         "63701d24f03239d40b000047",
@@ -14764,7 +14764,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00003c",
-      userId: "63701cc1f03239cdc5000014",
+      user: "63701cc1f03239cdc5000014",
       cost: 2215.73,
       products: [
         "63701d24f03239d40b000049",
@@ -14776,19 +14776,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e00003d",
-      userId: "63701cc1f032399c0000011b",
+      user: "63701cc1f032399c0000011b",
       cost: 3155.56,
       products: ["63701d24f03239528f000017", "63701d24f0323986f300012c"],
     },
     {
       _id: "63701d74f03239d81e00003e",
-      userId: "63701cc1f03239569400000c",
+      user: "63701cc1f03239569400000c",
       cost: 3956.27,
       products: ["63701d24f03239d81e000015", "63701d24f03239c72c00018e"],
     },
     {
       _id: "63701d74f03239d81e00003f",
-      userId: "63701cc1f03239f09e000181",
+      user: "63701cc1f03239f09e000181",
       cost: 1177.57,
       products: [
         "63701d24f03239bef000012a",
@@ -14799,7 +14799,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000040",
-      userId: "63701cc1f03239c72c000182",
+      user: "63701cc1f03239c72c000182",
       cost: 3532.94,
       products: [
         "63701d24f03239f09e000190",
@@ -14809,7 +14809,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000041",
-      userId: "63701cc1f03239f09e000189",
+      user: "63701cc1f03239f09e000189",
       cost: 2818.98,
       products: [
         "63701d24f032399c0000012a",
@@ -14821,7 +14821,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000042",
-      userId: "63701cc1f03239d81e00000c",
+      user: "63701cc1f03239d81e00000c",
       cost: 1308.84,
       products: [
         "63701d24f03239d40b00004f",
@@ -14831,13 +14831,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000043",
-      userId: "63701cc1f03239bef000011e",
+      user: "63701cc1f03239bef000011e",
       cost: 944.22,
       products: ["63701d24f03239d40b000049", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f03239d81e000044",
-      userId: "63701cc1f032390a34000319",
+      user: "63701cc1f032390a34000319",
       cost: 607.91,
       products: [
         "63701d24f03239d40b00004c",
@@ -14849,7 +14849,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000045",
-      userId: "63701cc1f032394c49000124",
+      user: "63701cc1f032394c49000124",
       cost: 493.94,
       products: [
         "63701d24f03239d40b000054",
@@ -14859,19 +14859,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d81e000046",
-      userId: "63701cc1f03239b7f700000a",
+      user: "63701cc1f03239b7f700000a",
       cost: 2758.74,
       products: ["63701d24f03239f09e00018e"],
     },
     {
       _id: "63701d74f032390a3400032b",
-      userId: "63701cc1f032399c0000011d",
+      user: "63701cc1f032399c0000011d",
       cost: 2727.46,
       products: ["63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f032390a3400032c",
-      userId: "63701cc1f032396b8e000011",
+      user: "63701cc1f032396b8e000011",
       cost: 1298.33,
       products: [
         "63701d24f03239f09e00018f",
@@ -14881,13 +14881,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400032d",
-      userId: "63701cc1f032390a34000326",
+      user: "63701cc1f032390a34000326",
       cost: 366.28,
       products: ["63701d24f03239f09e000191", "63701d24f032395694000018"],
     },
     {
       _id: "63701d74f032390a3400032e",
-      userId: "63701cc1f03239d40b00003c",
+      user: "63701cc1f03239d40b00003c",
       cost: 1003.36,
       products: [
         "63701d24f032394c4900012c",
@@ -14898,7 +14898,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400032f",
-      userId: "63701cc1f03239db6900011c",
+      user: "63701cc1f03239db6900011c",
       cost: 412.99,
       products: [
         "63701d24f03239bef000012d",
@@ -14908,7 +14908,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000330",
-      userId: "63701cc1f032398675000125",
+      user: "63701cc1f032398675000125",
       cost: 3800.1,
       products: [
         "63701d24f03239d40b000047",
@@ -14918,7 +14918,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000331",
-      userId: "63701cc1f03239bef0000128",
+      user: "63701cc1f03239bef0000128",
       cost: 491.56,
       products: [
         "63701d24f032390a34000327",
@@ -14928,19 +14928,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000332",
-      userId: "63701cc1f03239b91300000e",
+      user: "63701cc1f03239b91300000e",
       cost: 2596.99,
       products: ["63701d25f03239d591000327", "63701d24f032395b3300012b"],
     },
     {
       _id: "63701d74f032390a34000333",
-      userId: "63701cc1f03239d40b000039",
+      user: "63701cc1f03239d40b000039",
       cost: 2502.79,
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f032390a34000334",
-      userId: "63701cc1f03239f09e000189",
+      user: "63701cc1f03239f09e000189",
       cost: 219.07,
       products: [
         "63701d24f032394c4900012d",
@@ -14951,13 +14951,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000335",
-      userId: "63701cc1f03239b7f700000c",
+      user: "63701cc1f03239b7f700000c",
       cost: 929.8,
       products: ["63701d24f03239528f000017", "63701d24f03239d81e000017"],
     },
     {
       _id: "63701d74f032390a34000336",
-      userId: "63701cc1f03239d40b00003a",
+      user: "63701cc1f03239d40b00003a",
       cost: 1933.72,
       products: [
         "63701d24f03239d81e000016",
@@ -14969,7 +14969,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000337",
-      userId: "63701cc1f032396b8e00000b",
+      user: "63701cc1f032396b8e00000b",
       cost: 619.13,
       products: [
         "63701d24f03239b7f7000015",
@@ -14980,25 +14980,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000338",
-      userId: "63701cc1f03239f09e000188",
+      user: "63701cc1f03239f09e000188",
       cost: 1036.87,
       products: ["63701d24f03239db6900012b"],
     },
     {
       _id: "63701d74f032390a34000339",
-      userId: "63701cc1f0323944410002de",
+      user: "63701cc1f0323944410002de",
       cost: 2839.16,
       products: ["63701d24f03239d40b00004a", "63701d24f03239528f000018"],
     },
     {
       _id: "63701d74f032390a3400033a",
-      userId: "63701cc1f032399c00000127",
+      user: "63701cc1f032399c00000127",
       cost: 1732.47,
       products: ["63701d24f03239d40b00004e"],
     },
     {
       _id: "63701d74f032390a3400033b",
-      userId: "63701cc1f03239f09e00017f",
+      user: "63701cc1f03239f09e00017f",
       cost: 3183.64,
       products: [
         "63701d24f032396b8e000018",
@@ -15010,7 +15010,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400033c",
-      userId: "63701cc1f03239cdc5000009",
+      user: "63701cc1f03239cdc5000009",
       cost: 847.35,
       products: [
         "63701d24f0323986f300012b",
@@ -15022,7 +15022,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400033d",
-      userId: "63701cc1f03239bef000011c",
+      user: "63701cc1f03239bef000011c",
       cost: 2369.72,
       products: [
         "63701d24f03239b913000018",
@@ -15033,7 +15033,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400033e",
-      userId: "63701cc1f032398675000127",
+      user: "63701cc1f032398675000127",
       cost: 526.81,
       products: [
         "63701d24f03239c72c00018f",
@@ -15044,7 +15044,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400033f",
-      userId: "63701cc1f03239b7f7000011",
+      user: "63701cc1f03239b7f7000011",
       cost: 789.3,
       products: [
         "63701d24f032399c0000012b",
@@ -15055,13 +15055,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000340",
-      userId: "63701cc1f032396b8e00000b",
+      user: "63701cc1f032396b8e00000b",
       cost: 522.18,
       products: ["63701d24f03239867500012d", "63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f032390a34000341",
-      userId: "63701cc1f03239b913000009",
+      user: "63701cc1f03239b913000009",
       cost: 2198.03,
       products: [
         "63701d24f0323944410002ec",
@@ -15071,7 +15071,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000342",
-      userId: "63701cc1f032390a34000320",
+      user: "63701cc1f032390a34000320",
       cost: 2863.68,
       products: [
         "63701d24f03239db6900012c",
@@ -15082,13 +15082,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000343",
-      userId: "63701cc1f03239b91300000f",
+      user: "63701cc1f03239b91300000f",
       cost: 451.44,
       products: ["63701d24f03239d81e000017", "63701d24f032395694000016"],
     },
     {
       _id: "63701d74f032390a34000344",
-      userId: "63701cc1f03239d81e00000f",
+      user: "63701cc1f03239d81e00000f",
       cost: 3278.33,
       products: [
         "63701d24f03239d81e000018",
@@ -15099,7 +15099,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000345",
-      userId: "63701cc1f03239f09e000185",
+      user: "63701cc1f03239f09e000185",
       cost: 3301.41,
       products: [
         "63701d24f03239528f000015",
@@ -15110,13 +15110,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000346",
-      userId: "63701cc1f032396b8e000010",
+      user: "63701cc1f032396b8e000010",
       cost: 3120.14,
       products: ["63701d24f03239bef000012b", "63701d24f032395694000018"],
     },
     {
       _id: "63701d74f032390a34000347",
-      userId: "63701cc1f03239d591000321",
+      user: "63701cc1f03239d591000321",
       cost: 3018.79,
       products: [
         "63701d24f03239c72c000190",
@@ -15127,7 +15127,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000348",
-      userId: "63701cc1f032395694000013",
+      user: "63701cc1f032395694000013",
       cost: 3694.83,
       products: [
         "63701d24f03239c72c00018f",
@@ -15139,7 +15139,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000349",
-      userId: "63701cc1f032395b33000120",
+      user: "63701cc1f032395b33000120",
       cost: 2077.81,
       products: [
         "63701d24f03239b913000018",
@@ -15151,7 +15151,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400034a",
-      userId: "63701cc1f032395b33000126",
+      user: "63701cc1f032395b33000126",
       cost: 879.42,
       products: [
         "63701d24f032395b3300012a",
@@ -15162,25 +15162,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400034b",
-      userId: "63701cc1f03239d40b000039",
+      user: "63701cc1f03239d40b000039",
       cost: 364.65,
       products: ["63701d24f03239cdc5000017", "63701d24f032396b8e000017"],
     },
     {
       _id: "63701d74f032390a3400034c",
-      userId: "63701cc1f03239cdc5000010",
+      user: "63701cc1f03239cdc5000010",
       cost: 661.95,
       products: ["63701d24f032394c4900012b", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032390a3400034d",
-      userId: "63701cc1f03239bef000011f",
+      user: "63701cc1f03239bef000011f",
       cost: 270.33,
       products: ["63701d24f0323986f300012b", "63701d24f03239d40b000052"],
     },
     {
       _id: "63701d74f032390a3400034e",
-      userId: "63701cc1f03239d81e000010",
+      user: "63701cc1f03239d81e000010",
       cost: 1059.47,
       products: [
         "63701d24f032395b3300012d",
@@ -15191,7 +15191,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a3400034f",
-      userId: "63701cc1f03239d40b000046",
+      user: "63701cc1f03239d40b000046",
       cost: 424.78,
       products: [
         "63701d24f03239d40b00004d",
@@ -15201,7 +15201,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000350",
-      userId: "63701cc1f032396b8e00000d",
+      user: "63701cc1f032396b8e00000d",
       cost: 3340.88,
       products: [
         "63701d24f03239cdc5000015",
@@ -15213,7 +15213,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000351",
-      userId: "63701cc1f032395694000008",
+      user: "63701cc1f032395694000008",
       cost: 1271.59,
       products: [
         "63701d24f0323944410002ed",
@@ -15224,7 +15224,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000352",
-      userId: "63701cc1f03239528f00000e",
+      user: "63701cc1f03239528f00000e",
       cost: 1011.56,
       products: [
         "63701d24f03239d81e000015",
@@ -15236,13 +15236,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000353",
-      userId: "63701cc1f0323944410002e9",
+      user: "63701cc1f0323944410002e9",
       cost: 2356.11,
       products: ["63701d24f032390a3400032a"],
     },
     {
       _id: "63701d74f032390a34000354",
-      userId: "63701cc1f03239b7f7000006",
+      user: "63701cc1f03239b7f7000006",
       cost: 2921.72,
       products: [
         "63701d24f03239cdc5000018",
@@ -15254,7 +15254,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000355",
-      userId: "63701cc1f03239528f000011",
+      user: "63701cc1f03239528f000011",
       cost: 915.05,
       products: [
         "63701d24f03239b7f7000018",
@@ -15264,7 +15264,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000356",
-      userId: "63701cc1f0323944410002ea",
+      user: "63701cc1f0323944410002ea",
       cost: 3176.67,
       products: [
         "63701d24f03239c72c00018e",
@@ -15275,7 +15275,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000357",
-      userId: "63701cc1f03239cdc500000b",
+      user: "63701cc1f03239cdc500000b",
       cost: 1513.85,
       products: [
         "63701d24f03239b7f7000016",
@@ -15287,7 +15287,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032390a34000358",
-      userId: "63701cc1f032390a3400031c",
+      user: "63701cc1f032390a3400031c",
       cost: 1689.74,
       products: [
         "63701d24f0323986f300012d",
@@ -15298,7 +15298,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300012e",
-      userId: "63701cc1f0323944410002e4",
+      user: "63701cc1f0323944410002e4",
       cost: 838.14,
       products: [
         "63701d24f032395694000015",
@@ -15309,7 +15309,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300012f",
-      userId: "63701cc1f032394c49000129",
+      user: "63701cc1f032394c49000129",
       cost: 3253.24,
       products: [
         "63701d24f03239d40b000053",
@@ -15319,7 +15319,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000130",
-      userId: "63701cc1f0323944410002e7",
+      user: "63701cc1f0323944410002e7",
       cost: 3550.63,
       products: [
         "63701d24f03239cdc5000015",
@@ -15330,7 +15330,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000131",
-      userId: "63701cc1f03239d591000319",
+      user: "63701cc1f03239d591000319",
       cost: 107.48,
       products: [
         "63701d24f03239c72c00018f",
@@ -15340,7 +15340,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000132",
-      userId: "63701cc1f03239d591000318",
+      user: "63701cc1f03239d591000318",
       cost: 3072.8,
       products: [
         "63701d24f03239b913000017",
@@ -15352,7 +15352,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000133",
-      userId: "63701cc1f032390a34000324",
+      user: "63701cc1f032390a34000324",
       cost: 2916.45,
       products: [
         "63701d24f03239d40b00004f",
@@ -15362,7 +15362,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000134",
-      userId: "63701cc1f0323986f3000121",
+      user: "63701cc1f0323986f3000121",
       cost: 3647.7,
       products: [
         "63701d24f03239db6900012c",
@@ -15372,7 +15372,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000135",
-      userId: "63701cc1f03239bef0000124",
+      user: "63701cc1f03239bef0000124",
       cost: 3782.1,
       products: [
         "63701d24f03239bef000012c",
@@ -15383,13 +15383,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000136",
-      userId: "63701cc1f03239bef000011f",
+      user: "63701cc1f03239bef000011f",
       cost: 235.02,
       products: ["63701d24f03239d40b00004a", "63701d24f03239bef000012b"],
     },
     {
       _id: "63701d74f032395b33000137",
-      userId: "63701cc1f032398675000127",
+      user: "63701cc1f032398675000127",
       cost: 2687.49,
       products: [
         "63701d24f0323986f300012a",
@@ -15400,7 +15400,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000138",
-      userId: "63701cc1f03239528f000006",
+      user: "63701cc1f03239528f000006",
       cost: 1427.24,
       products: [
         "63701d24f03239d81e000018",
@@ -15412,13 +15412,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000139",
-      userId: "63701cc1f03239c72c00018b",
+      user: "63701cc1f03239c72c00018b",
       cost: 2828.47,
       products: ["63701d24f03239867500012c", "63701d24f03239cdc5000017"],
     },
     {
       _id: "63701d74f032395b3300013a",
-      userId: "63701cc1f03239cdc5000009",
+      user: "63701cc1f03239cdc5000009",
       cost: 1252.87,
       products: [
         "63701d24f0323944410002ef",
@@ -15430,7 +15430,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300013b",
-      userId: "63701cc1f03239db69000126",
+      user: "63701cc1f03239db69000126",
       cost: 3285.66,
       products: [
         "63701d24f032396b8e000018",
@@ -15442,7 +15442,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300013c",
-      userId: "63701cc1f03239db6900011d",
+      user: "63701cc1f03239db6900011d",
       cost: 543.75,
       products: [
         "63701d24f03239b913000018",
@@ -15454,7 +15454,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300013d",
-      userId: "63701cc1f03239d81e00000a",
+      user: "63701cc1f03239d81e00000a",
       cost: 2169.95,
       products: [
         "63701d24f03239528f000017",
@@ -15465,25 +15465,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300013e",
-      userId: "63701cc1f03239528f00000b",
+      user: "63701cc1f03239528f00000b",
       cost: 751.81,
       products: ["63701d24f03239c72c000190"],
     },
     {
       _id: "63701d74f032395b3300013f",
-      userId: "63701cc1f032395b33000129",
+      user: "63701cc1f032395b33000129",
       cost: 774.09,
       products: ["63701d24f0323944410002ed"],
     },
     {
       _id: "63701d74f032395b33000140",
-      userId: "63701cc1f03239db69000122",
+      user: "63701cc1f03239db69000122",
       cost: 783.69,
       products: ["63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f032395b33000141",
-      userId: "63701cc1f032399c00000129",
+      user: "63701cc1f032399c00000129",
       cost: 3808.22,
       products: [
         "63701d24f03239d81e000017",
@@ -15495,13 +15495,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000142",
-      userId: "63701cc1f032396b8e000009",
+      user: "63701cc1f032396b8e000009",
       cost: 2868.43,
       products: ["63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f032395b33000143",
-      userId: "63701cc1f03239d81e00000e",
+      user: "63701cc1f03239d81e00000e",
       cost: 583.34,
       products: [
         "63701d24f032395694000017",
@@ -15511,7 +15511,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000144",
-      userId: "63701cc1f03239bef000011d",
+      user: "63701cc1f03239bef000011d",
       cost: 2701.65,
       products: [
         "63701d24f03239528f000018",
@@ -15522,7 +15522,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000145",
-      userId: "63701cc1f032396b8e000011",
+      user: "63701cc1f032396b8e000011",
       cost: 2951.06,
       products: [
         "63701d24f032390a3400032a",
@@ -15534,13 +15534,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000146",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       cost: 830.15,
       products: ["63701d24f03239d81e000015"],
     },
     {
       _id: "63701d74f032395b33000147",
-      userId: "63701cc1f03239db69000126",
+      user: "63701cc1f03239db69000126",
       cost: 3313.44,
       products: [
         "63701d24f03239b7f7000018",
@@ -15550,13 +15550,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000148",
-      userId: "63701cc1f03239d81e000007",
+      user: "63701cc1f03239d81e000007",
       cost: 1205.8,
       products: ["63701d24f0323986f300012c", "63701d24f03239db6900012a"],
     },
     {
       _id: "63701d74f032395b33000149",
-      userId: "63701cc1f032395b3300011d",
+      user: "63701cc1f032395b3300011d",
       cost: 2824.68,
       products: [
         "63701d24f03239b913000017",
@@ -15568,7 +15568,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300014a",
-      userId: "63701cc1f03239cdc500000a",
+      user: "63701cc1f03239cdc500000a",
       cost: 108.35,
       products: [
         "63701d24f032390a3400032a",
@@ -15579,7 +15579,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300014b",
-      userId: "63701cc1f03239f09e000184",
+      user: "63701cc1f03239f09e000184",
       cost: 2417.55,
       products: [
         "63701d24f03239db6900012c",
@@ -15590,7 +15590,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300014c",
-      userId: "63701cc1f03239cdc500000e",
+      user: "63701cc1f03239cdc500000e",
       cost: 2570.97,
       products: [
         "63701d24f03239bef000012d",
@@ -15602,25 +15602,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300014d",
-      userId: "63701cc1f03239b91300000b",
+      user: "63701cc1f03239b91300000b",
       cost: 810.78,
       products: ["63701d24f03239c72c00018f"],
     },
     {
       _id: "63701d74f032395b3300014e",
-      userId: "63701cc1f0323986f3000122",
+      user: "63701cc1f0323986f3000122",
       cost: 3025.73,
       products: ["63701d24f032390a34000328", "63701d24f03239d40b00004e"],
     },
     {
       _id: "63701d74f032395b3300014f",
-      userId: "63701cc1f03239d40b00003d",
+      user: "63701cc1f03239d40b00003d",
       cost: 1846.55,
       products: ["63701d24f03239f09e000190"],
     },
     {
       _id: "63701d74f032395b33000150",
-      userId: "63701cc1f03239cdc5000012",
+      user: "63701cc1f03239cdc5000012",
       cost: 2832.48,
       products: [
         "63701d24f0323986f300012d",
@@ -15630,7 +15630,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000151",
-      userId: "63701cc1f032395b3300011f",
+      user: "63701cc1f032395b3300011f",
       cost: 2903.88,
       products: [
         "63701d24f03239d40b000049",
@@ -15642,13 +15642,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000152",
-      userId: "63701cc1f0323986f300011f",
+      user: "63701cc1f0323986f300011f",
       cost: 2254.13,
       products: ["63701d24f032395694000015"],
     },
     {
       _id: "63701d74f032395b33000153",
-      userId: "63701cc1f03239d40b000044",
+      user: "63701cc1f03239d40b000044",
       cost: 2493.86,
       products: [
         "63701d24f0323944410002ed",
@@ -15658,13 +15658,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000154",
-      userId: "63701cc1f03239d81e00000e",
+      user: "63701cc1f03239d81e00000e",
       cost: 3231.81,
       products: ["63701d24f03239cdc5000015"],
     },
     {
       _id: "63701d74f032395b33000155",
-      userId: "63701cc1f03239db69000129",
+      user: "63701cc1f03239db69000129",
       cost: 3487.3,
       products: [
         "63701d24f03239d81e000016",
@@ -15674,19 +15674,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000156",
-      userId: "63701cc1f03239d591000324",
+      user: "63701cc1f03239d591000324",
       cost: 2745.09,
       products: ["63701d24f03239bef000012b"],
     },
     {
       _id: "63701d74f032395b33000157",
-      userId: "63701cc1f03239f09e000180",
+      user: "63701cc1f03239f09e000180",
       cost: 3031.51,
       products: ["63701d25f03239d59100032a", "63701d24f03239528f000015"],
     },
     {
       _id: "63701d74f032395b33000158",
-      userId: "63701cc1f03239c72c00018a",
+      user: "63701cc1f03239c72c00018a",
       cost: 1693.53,
       products: [
         "63701d24f03239b7f7000015",
@@ -15696,7 +15696,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b33000159",
-      userId: "63701cc1f0323986f3000128",
+      user: "63701cc1f0323986f3000128",
       cost: 1446.87,
       products: [
         "63701d24f03239867500012d",
@@ -15707,7 +15707,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300015a",
-      userId: "63701cc1f032395694000007",
+      user: "63701cc1f032395694000007",
       cost: 2192.21,
       products: [
         "63701d24f032394c4900012b",
@@ -15717,7 +15717,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395b3300015b",
-      userId: "63701cc1f032395694000008",
+      user: "63701cc1f032395694000008",
       cost: 899.75,
       products: [
         "63701d24f03239f09e00018f",
@@ -15728,19 +15728,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100032b",
-      userId: "63701cc1f03239cdc500000d",
+      user: "63701cc1f03239cdc500000d",
       cost: 1225.16,
       products: ["63701d24f03239d40b00004c"],
     },
     {
       _id: "63701d74f03239d59100032c",
-      userId: "63701cc1f03239569400000a",
+      user: "63701cc1f03239569400000a",
       cost: 502.51,
       products: ["63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f03239d59100032d",
-      userId: "63701cc1f032399c00000129",
+      user: "63701cc1f032399c00000129",
       cost: 1740.06,
       products: [
         "63701d24f03239d40b000052",
@@ -15751,7 +15751,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100032e",
-      userId: "63701cc1f03239b7f700000a",
+      user: "63701cc1f03239b7f700000a",
       cost: 1894.09,
       products: [
         "63701d24f032396b8e000015",
@@ -15762,19 +15762,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100032f",
-      userId: "63701cc1f032394c49000125",
+      user: "63701cc1f032394c49000125",
       cost: 1604.44,
       products: ["63701d24f032396b8e000016", "63701d24f03239d40b000051"],
     },
     {
       _id: "63701d74f03239d591000330",
-      userId: "63701cc1f03239867500011b",
+      user: "63701cc1f03239867500011b",
       cost: 273.52,
       products: ["63701d24f03239bef000012c"],
     },
     {
       _id: "63701d74f03239d591000331",
-      userId: "63701cc1f03239db69000123",
+      user: "63701cc1f03239db69000123",
       cost: 1141.49,
       products: [
         "63701d24f0323986f300012c",
@@ -15786,31 +15786,31 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000332",
-      userId: "63701cc1f032396b8e00000a",
+      user: "63701cc1f032396b8e00000a",
       cost: 3994.9,
       products: ["63701d24f03239d40b00004d", "63701d24f03239d40b000056"],
     },
     {
       _id: "63701d74f03239d591000333",
-      userId: "63701cc1f03239b7f7000007",
+      user: "63701cc1f03239b7f7000007",
       cost: 878.2,
       products: ["63701d24f032395b3300012d"],
     },
     {
       _id: "63701d74f03239d591000334",
-      userId: "63701cc1f03239867500011c",
+      user: "63701cc1f03239867500011c",
       cost: 1358.84,
       products: ["63701d24f03239b913000018", "63701d24f032395b3300012a"],
     },
     {
       _id: "63701d74f03239d591000335",
-      userId: "63701cc1f0323944410002ea",
+      user: "63701cc1f0323944410002ea",
       cost: 1372.83,
       products: ["63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f03239d591000336",
-      userId: "63701cc1f032396b8e00000e",
+      user: "63701cc1f032396b8e00000e",
       cost: 559.15,
       products: [
         "63701d24f032396b8e000018",
@@ -15820,7 +15820,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000337",
-      userId: "63701cc1f03239c72c000187",
+      user: "63701cc1f03239c72c000187",
       cost: 2297.98,
       products: [
         "63701d24f0323986f300012b",
@@ -15830,19 +15830,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000338",
-      userId: "63701cc1f03239528f00000b",
+      user: "63701cc1f03239528f00000b",
       cost: 1142.63,
       products: ["63701d24f03239f09e000190"],
     },
     {
       _id: "63701d74f03239d591000339",
-      userId: "63701cc1f03239bef000011b",
+      user: "63701cc1f03239bef000011b",
       cost: 1303.19,
       products: ["63701d24f03239b913000015", "63701d24f03239d40b000052"],
     },
     {
       _id: "63701d74f03239d59100033a",
-      userId: "63701cc1f032395b33000129",
+      user: "63701cc1f032395b33000129",
       cost: 3228.67,
       products: [
         "63701d24f032395b3300012c",
@@ -15852,13 +15852,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100033b",
-      userId: "63701cc1f03239c72c000183",
+      user: "63701cc1f03239c72c000183",
       cost: 3502.96,
       products: ["63701d24f03239d40b00004e", "63701d24f0323986f300012d"],
     },
     {
       _id: "63701d74f03239d59100033c",
-      userId: "63701cc1f03239d59100031d",
+      user: "63701cc1f03239d59100031d",
       cost: 2033.74,
       products: [
         "63701d24f03239f09e00018f",
@@ -15870,13 +15870,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100033d",
-      userId: "63701cc1f03239b913000011",
+      user: "63701cc1f03239b913000011",
       cost: 2510.55,
       products: ["63701d24f03239528f000017"],
     },
     {
       _id: "63701d74f03239d59100033e",
-      userId: "63701cc1f03239528f00000e",
+      user: "63701cc1f03239528f00000e",
       cost: 124.21,
       products: [
         "63701d24f032394c4900012b",
@@ -15888,7 +15888,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100033f",
-      userId: "63701cc1f032399c00000124",
+      user: "63701cc1f032399c00000124",
       cost: 3844.04,
       products: [
         "63701d24f032395b3300012b",
@@ -15900,7 +15900,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000340",
-      userId: "63701cc1f03239d40b000042",
+      user: "63701cc1f03239d40b000042",
       cost: 1073.24,
       products: [
         "63701d24f03239cdc5000015",
@@ -15912,19 +15912,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000341",
-      userId: "63701cc1f0323944410002e8",
+      user: "63701cc1f0323944410002e8",
       cost: 2570.3,
       products: ["63701d24f032399c0000012d"],
     },
     {
       _id: "63701d74f03239d591000342",
-      userId: "63701cc1f03239d40b00003b",
+      user: "63701cc1f03239d40b00003b",
       cost: 2894.43,
       products: ["63701d24f03239f09e00018e", "63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239d591000343",
-      userId: "63701cc1f03239b91300000b",
+      user: "63701cc1f03239b91300000b",
       cost: 1231.1,
       products: [
         "63701d24f03239d40b00004a",
@@ -15936,13 +15936,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000344",
-      userId: "63701cc1f0323986f3000122",
+      user: "63701cc1f0323986f3000122",
       cost: 252.61,
       products: ["63701d24f03239d40b00004b", "63701d24f03239cdc5000016"],
     },
     {
       _id: "63701d74f03239d591000345",
-      userId: "63701cc1f032394c49000127",
+      user: "63701cc1f032394c49000127",
       cost: 752.29,
       products: [
         "63701d24f03239d81e000016",
@@ -15953,7 +15953,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000346",
-      userId: "63701cc1f032390a34000325",
+      user: "63701cc1f032390a34000325",
       cost: 1699.17,
       products: [
         "63701d24f03239db6900012a",
@@ -15964,7 +15964,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000347",
-      userId: "63701cc1f032395694000013",
+      user: "63701cc1f032395694000013",
       cost: 3423.15,
       products: [
         "63701d24f03239bef000012b",
@@ -15974,7 +15974,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000348",
-      userId: "63701cc1f032399c00000122",
+      user: "63701cc1f032399c00000122",
       cost: 2499.55,
       products: [
         "63701d24f032396b8e000018",
@@ -15984,7 +15984,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000349",
-      userId: "63701cc1f03239c72c000180",
+      user: "63701cc1f03239c72c000180",
       cost: 226.39,
       products: [
         "63701d24f03239d40b000053",
@@ -15995,25 +15995,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100034a",
-      userId: "63701cc1f03239f09e000181",
+      user: "63701cc1f03239f09e000181",
       cost: 1149.82,
       products: ["63701d24f0323986f300012b"],
     },
     {
       _id: "63701d74f03239d59100034b",
-      userId: "63701cc1f032399c00000126",
+      user: "63701cc1f032399c00000126",
       cost: 1802.53,
       products: ["63701d24f032390a34000328", "63701d24f032396b8e000017"],
     },
     {
       _id: "63701d74f03239d59100034c",
-      userId: "63701cc1f0323986f300011c",
+      user: "63701cc1f0323986f300011c",
       cost: 2128.92,
       products: ["63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239d59100034d",
-      userId: "63701cc1f0323986f300011d",
+      user: "63701cc1f0323986f300011d",
       cost: 3647.52,
       products: [
         "63701d24f03239b913000015",
@@ -16024,7 +16024,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100034e",
-      userId: "63701cc1f03239f09e00018d",
+      user: "63701cc1f03239f09e00018d",
       cost: 2001.58,
       products: [
         "63701d24f03239b913000017",
@@ -16036,7 +16036,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d59100034f",
-      userId: "63701cc1f032398675000125",
+      user: "63701cc1f032398675000125",
       cost: 99.52,
       products: [
         "63701d24f03239db6900012c",
@@ -16048,7 +16048,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000350",
-      userId: "63701cc1f03239b91300000f",
+      user: "63701cc1f03239b91300000f",
       cost: 1428.08,
       products: [
         "63701d24f03239d40b00004b",
@@ -16060,7 +16060,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000351",
-      userId: "63701cc1f032398675000123",
+      user: "63701cc1f032398675000123",
       cost: 2584.93,
       products: [
         "63701d24f03239b913000018",
@@ -16072,7 +16072,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000352",
-      userId: "63701cc1f032395b33000128",
+      user: "63701cc1f032395b33000128",
       cost: 3011.03,
       products: [
         "63701d24f03239c72c00018f",
@@ -16083,13 +16083,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000353",
-      userId: "63701cc1f032390a3400031a",
+      user: "63701cc1f032390a3400031a",
       cost: 3648.94,
       products: ["63701d24f03239db6900012a", "63701d24f03239cdc5000015"],
     },
     {
       _id: "63701d74f03239d591000354",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       cost: 2447.29,
       products: [
         "63701d24f03239528f000016",
@@ -16099,43 +16099,43 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239d591000355",
-      userId: "63701cc1f03239d81e000008",
+      user: "63701cc1f03239d81e000008",
       cost: 3542.2,
       products: ["63701d24f03239b7f7000015", "63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239d591000356",
-      userId: "63701cc1f03239b7f7000010",
+      user: "63701cc1f03239b7f7000010",
       cost: 2636.43,
       products: ["63701d24f032396b8e000015", "63701d25f03239d59100032a"],
     },
     {
       _id: "63701d74f03239d591000357",
-      userId: "63701cc1f03239b7f7000013",
+      user: "63701cc1f03239b7f7000013",
       cost: 22.7,
       products: ["63701d24f03239f09e000191"],
     },
     {
       _id: "63701d74f03239d591000358",
-      userId: "63701cc1f032399c00000123",
+      user: "63701cc1f032399c00000123",
       cost: 1254.83,
       products: ["63701d24f032395694000017"],
     },
     {
       _id: "63701d74f032395694000019",
-      userId: "63701cc1f03239f09e000187",
+      user: "63701cc1f03239f09e000187",
       cost: 1006.17,
       products: ["63701d24f032395b3300012d"],
     },
     {
       _id: "63701d74f03239569400001a",
-      userId: "63701cc1f032390a34000321",
+      user: "63701cc1f032390a34000321",
       cost: 3788.51,
       products: ["63701d24f03239f09e00018e", "63701d25f03239d591000328"],
     },
     {
       _id: "63701d74f03239569400001b",
-      userId: "63701cc1f03239d81e00000a",
+      user: "63701cc1f03239d81e00000a",
       cost: 1191.14,
       products: [
         "63701d24f032395b3300012a",
@@ -16145,7 +16145,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400001c",
-      userId: "63701cc1f03239528f00000a",
+      user: "63701cc1f03239528f00000a",
       cost: 824.22,
       products: [
         "63701d24f03239db6900012b",
@@ -16156,7 +16156,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400001d",
-      userId: "63701cc1f03239d591000322",
+      user: "63701cc1f03239d591000322",
       cost: 1918.67,
       products: [
         "63701d24f03239867500012b",
@@ -16168,13 +16168,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400001e",
-      userId: "63701cc1f03239cdc5000008",
+      user: "63701cc1f03239cdc5000008",
       cost: 1178.68,
       products: ["63701d24f032390a3400032a", "63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f03239569400001f",
-      userId: "63701cc1f032399c0000011e",
+      user: "63701cc1f032399c0000011e",
       cost: 3525.19,
       products: [
         "63701d24f03239b913000016",
@@ -16185,13 +16185,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000020",
-      userId: "63701cc1f032398675000122",
+      user: "63701cc1f032398675000122",
       cost: 2029.59,
       products: ["63701d24f03239528f000016", "63701d24f032399c0000012b"],
     },
     {
       _id: "63701d74f032395694000021",
-      userId: "63701cc1f032396b8e000009",
+      user: "63701cc1f032396b8e000009",
       cost: 2611.36,
       products: [
         "63701d24f03239f09e00018f",
@@ -16201,7 +16201,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000022",
-      userId: "63701cc1f032396b8e000013",
+      user: "63701cc1f032396b8e000013",
       cost: 1342.61,
       products: [
         "63701d24f0323944410002ed",
@@ -16212,7 +16212,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000023",
-      userId: "63701cc1f03239cdc500000e",
+      user: "63701cc1f03239cdc500000e",
       cost: 864.03,
       products: [
         "63701d24f03239d40b000053",
@@ -16224,7 +16224,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000024",
-      userId: "63701cc1f03239b7f7000011",
+      user: "63701cc1f03239b7f7000011",
       cost: 2269.3,
       products: [
         "63701d24f03239c72c00018f",
@@ -16234,7 +16234,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000025",
-      userId: "63701cc1f0323986f300011f",
+      user: "63701cc1f0323986f300011f",
       cost: 2879.31,
       products: [
         "63701d24f03239d40b000051",
@@ -16246,7 +16246,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000026",
-      userId: "63701cc1f03239f09e000183",
+      user: "63701cc1f03239f09e000183",
       cost: 1952.66,
       products: [
         "63701d24f03239b913000015",
@@ -16258,7 +16258,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000027",
-      userId: "63701cc1f032396b8e00000c",
+      user: "63701cc1f032396b8e00000c",
       cost: 3286.44,
       products: [
         "63701d24f03239f09e00018e",
@@ -16270,7 +16270,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000028",
-      userId: "63701cc1f03239528f000007",
+      user: "63701cc1f03239528f000007",
       cost: 1210.4,
       products: [
         "63701d24f032395b3300012d",
@@ -16281,19 +16281,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000029",
-      userId: "63701cc1f03239b913000011",
+      user: "63701cc1f03239b913000011",
       cost: 456.8,
       products: ["63701d24f03239db6900012b", "63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239569400002a",
-      userId: "63701cc1f0323986f300011b",
+      user: "63701cc1f0323986f300011b",
       cost: 2965.69,
       products: ["63701d24f03239cdc5000015", "63701d24f032395b3300012c"],
     },
     {
       _id: "63701d74f03239569400002b",
-      userId: "63701cc1f032395b33000127",
+      user: "63701cc1f032395b33000127",
       cost: 3961.87,
       products: [
         "63701d24f0323986f300012b",
@@ -16304,31 +16304,31 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400002c",
-      userId: "63701cc1f03239d40b000043",
+      user: "63701cc1f03239d40b000043",
       cost: 1587.09,
       products: ["63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f03239569400002d",
-      userId: "63701cc1f03239db6900011b",
+      user: "63701cc1f03239db6900011b",
       cost: 229.26,
       products: ["63701d24f03239d40b000047"],
     },
     {
       _id: "63701d74f03239569400002e",
-      userId: "63701cc1f03239867500011d",
+      user: "63701cc1f03239867500011d",
       cost: 501.37,
       products: ["63701d24f03239b7f7000015"],
     },
     {
       _id: "63701d74f03239569400002f",
-      userId: "63701cc1f03239d81e000012",
+      user: "63701cc1f03239d81e000012",
       cost: 3787.19,
       products: ["63701d24f03239d40b000050", "63701d24f032395694000015"],
     },
     {
       _id: "63701d74f032395694000030",
-      userId: "63701cc1f032398675000120",
+      user: "63701cc1f032398675000120",
       cost: 2269.68,
       products: [
         "63701d24f03239db6900012a",
@@ -16338,7 +16338,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000031",
-      userId: "63701cc1f03239867500011e",
+      user: "63701cc1f03239867500011e",
       cost: 2374.64,
       products: [
         "63701d24f03239d40b00004f",
@@ -16348,19 +16348,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000032",
-      userId: "63701cc1f03239d81e00000a",
+      user: "63701cc1f03239d81e00000a",
       cost: 1999.86,
       products: ["63701d25f03239d59100032a", "63701d24f03239f09e000191"],
     },
     {
       _id: "63701d74f032395694000033",
-      userId: "63701cc1f03239b7f7000007",
+      user: "63701cc1f03239b7f7000007",
       cost: 1829.97,
       products: ["63701d24f03239b913000016", "63701d24f03239d40b00004a"],
     },
     {
       _id: "63701d74f032395694000034",
-      userId: "63701cc1f032394c49000129",
+      user: "63701cc1f032394c49000129",
       cost: 542.47,
       products: [
         "63701d25f03239d591000328",
@@ -16370,13 +16370,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000035",
-      userId: "63701cc1f03239d40b000040",
+      user: "63701cc1f03239d40b000040",
       cost: 2028.57,
       products: ["63701d24f032390a3400032a", "63701d24f03239cdc5000018"],
     },
     {
       _id: "63701d74f032395694000036",
-      userId: "63701cc1f03239d59100031b",
+      user: "63701cc1f03239d59100031b",
       cost: 1959.18,
       products: [
         "63701d24f03239528f000018",
@@ -16387,19 +16387,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000037",
-      userId: "63701cc1f03239b7f7000006",
+      user: "63701cc1f03239b7f7000006",
       cost: 3990.02,
       products: ["63701d24f03239b7f7000018"],
     },
     {
       _id: "63701d74f032395694000038",
-      userId: "63701cc1f03239d591000322",
+      user: "63701cc1f03239d591000322",
       cost: 1878.32,
       products: ["63701d24f032394c4900012a", "63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f032395694000039",
-      userId: "63701cc1f03239db69000128",
+      user: "63701cc1f03239db69000128",
       cost: 3976.65,
       products: [
         "63701d24f03239d81e000017",
@@ -16411,7 +16411,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400003a",
-      userId: "63701cc1f03239f09e000182",
+      user: "63701cc1f03239f09e000182",
       cost: 933.48,
       products: [
         "63701d24f03239f09e00018e",
@@ -16422,13 +16422,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400003b",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       cost: 585.64,
       products: ["63701d24f032390a34000327"],
     },
     {
       _id: "63701d74f03239569400003c",
-      userId: "63701cc1f03239c72c00018c",
+      user: "63701cc1f03239c72c00018c",
       cost: 2818.55,
       products: [
         "63701d24f032394c4900012c",
@@ -16440,13 +16440,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400003d",
-      userId: "63701cc1f03239d591000318",
+      user: "63701cc1f03239d591000318",
       cost: 3816.89,
       products: ["63701d24f03239d40b000051", "63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239569400003e",
-      userId: "63701cc1f03239db69000127",
+      user: "63701cc1f03239db69000127",
       cost: 3830.6,
       products: [
         "63701d24f032399c0000012a",
@@ -16458,19 +16458,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239569400003f",
-      userId: "63701cc1f032399c00000122",
+      user: "63701cc1f032399c00000122",
       cost: 2530.27,
       products: ["63701d24f032396b8e000018"],
     },
     {
       _id: "63701d74f032395694000040",
-      userId: "63701cc1f032399c00000121",
+      user: "63701cc1f032399c00000121",
       cost: 1557.75,
       products: ["63701d24f03239bef000012c", "63701d24f03239b7f7000016"],
     },
     {
       _id: "63701d74f032395694000041",
-      userId: "63701cc1f032395b33000122",
+      user: "63701cc1f032395b33000122",
       cost: 1031.98,
       products: [
         "63701d24f032395694000015",
@@ -16481,7 +16481,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000042",
-      userId: "63701cc1f032394c4900011f",
+      user: "63701cc1f032394c4900011f",
       cost: 2382.42,
       products: [
         "63701d24f03239bef000012b",
@@ -16493,7 +16493,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000043",
-      userId: "63701cc1f03239db6900011b",
+      user: "63701cc1f03239db6900011b",
       cost: 1592.8,
       products: [
         "63701d24f03239b913000017",
@@ -16505,13 +16505,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000044",
-      userId: "63701cc1f03239b913000006",
+      user: "63701cc1f03239b913000006",
       cost: 3855.51,
       products: ["63701d24f0323986f300012d"],
     },
     {
       _id: "63701d74f032395694000045",
-      userId: "63701cc1f032399c0000011d",
+      user: "63701cc1f032399c0000011d",
       cost: 3061.74,
       products: [
         "63701d24f03239528f000017",
@@ -16521,19 +16521,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032395694000046",
-      userId: "63701cc1f03239bef000011b",
+      user: "63701cc1f03239bef000011b",
       cost: 545.97,
       products: ["63701d24f03239528f000018", "63701d24f03239867500012b"],
     },
     {
       _id: "63701d74f032396b8e000019",
-      userId: "63701cc1f032396b8e00000a",
+      user: "63701cc1f032396b8e00000a",
       cost: 531.23,
       products: ["63701d24f032394c4900012b"],
     },
     {
       _id: "63701d74f032396b8e00001a",
-      userId: "63701cc1f032394c4900011e",
+      user: "63701cc1f032394c4900011e",
       cost: 833.05,
       products: [
         "63701d24f032395694000017",
@@ -16545,7 +16545,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00001b",
-      userId: "63701cc1f03239d81e00000e",
+      user: "63701cc1f03239d81e00000e",
       cost: 1000.84,
       products: [
         "63701d24f03239d40b000053",
@@ -16557,13 +16557,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00001c",
-      userId: "63701cc1f03239b913000011",
+      user: "63701cc1f03239b913000011",
       cost: 3514.81,
       products: ["63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f032396b8e00001d",
-      userId: "63701cc1f032396b8e00000c",
+      user: "63701cc1f032396b8e00000c",
       cost: 732.46,
       products: [
         "63701d24f032394c4900012a",
@@ -16575,7 +16575,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00001e",
-      userId: "63701cc1f032396b8e000009",
+      user: "63701cc1f032396b8e000009",
       cost: 1846.95,
       products: [
         "63701d24f03239db6900012b",
@@ -16587,13 +16587,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00001f",
-      userId: "63701cc1f03239cdc5000012",
+      user: "63701cc1f03239cdc5000012",
       cost: 478.68,
       products: ["63701d24f03239528f000015", "63701d24f032399c0000012c"],
     },
     {
       _id: "63701d74f032396b8e000020",
-      userId: "63701cc1f032399c0000011e",
+      user: "63701cc1f032399c0000011e",
       cost: 2963.61,
       products: [
         "63701d24f032396b8e000017",
@@ -16604,7 +16604,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000021",
-      userId: "63701cc1f03239b7f700000e",
+      user: "63701cc1f03239b7f700000e",
       cost: 3396.07,
       products: [
         "63701d24f03239db6900012d",
@@ -16615,7 +16615,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000022",
-      userId: "63701cc1f03239b7f7000008",
+      user: "63701cc1f03239b7f7000008",
       cost: 1104.58,
       products: [
         "63701d24f03239b7f7000018",
@@ -16627,25 +16627,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000023",
-      userId: "63701cc1f03239b7f7000010",
+      user: "63701cc1f03239b7f7000010",
       cost: 668.7,
       products: ["63701d24f032390a34000329"],
     },
     {
       _id: "63701d74f032396b8e000024",
-      userId: "63701cc1f03239d591000323",
+      user: "63701cc1f03239d591000323",
       cost: 3888.08,
       products: ["63701d24f032399c0000012b", "63701d24f03239d40b000054"],
     },
     {
       _id: "63701d74f032396b8e000025",
-      userId: "63701cc1f03239b91300000a",
+      user: "63701cc1f03239b91300000a",
       cost: 88.81,
       products: ["63701d24f03239bef000012c", "63701d24f032394c4900012a"],
     },
     {
       _id: "63701d74f032396b8e000026",
-      userId: "63701cc1f03239cdc500000e",
+      user: "63701cc1f03239cdc500000e",
       cost: 3277.91,
       products: [
         "63701d24f03239d40b000049",
@@ -16655,7 +16655,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000027",
-      userId: "63701cc1f032395b33000124",
+      user: "63701cc1f032395b33000124",
       cost: 2457.33,
       products: [
         "63701d24f03239528f000018",
@@ -16666,13 +16666,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000028",
-      userId: "63701cc1f0323944410002e5",
+      user: "63701cc1f0323944410002e5",
       cost: 118.18,
       products: ["63701d24f0323944410002ed", "63701d24f03239c72c000191"],
     },
     {
       _id: "63701d74f032396b8e000029",
-      userId: "63701cc1f03239bef000011c",
+      user: "63701cc1f03239bef000011c",
       cost: 3361.11,
       products: [
         "63701d24f03239d40b00004d",
@@ -16684,13 +16684,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00002a",
-      userId: "63701cc1f03239528f00000a",
+      user: "63701cc1f03239528f00000a",
       cost: 621.51,
       products: ["63701d24f03239bef000012b"],
     },
     {
       _id: "63701d74f032396b8e00002b",
-      userId: "63701cc1f03239528f00000f",
+      user: "63701cc1f03239528f00000f",
       cost: 2036.19,
       products: [
         "63701d24f03239d40b000047",
@@ -16700,13 +16700,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00002c",
-      userId: "63701cc1f03239c72c000188",
+      user: "63701cc1f03239c72c000188",
       cost: 3971,
       products: ["63701d24f03239b7f7000016", "63701d24f032395694000018"],
     },
     {
       _id: "63701d74f032396b8e00002d",
-      userId: "63701cc1f03239bef000011b",
+      user: "63701cc1f03239bef000011b",
       cost: 596.77,
       products: [
         "63701d24f032395694000015",
@@ -16717,13 +16717,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00002e",
-      userId: "63701cc1f03239cdc500000d",
+      user: "63701cc1f03239cdc500000d",
       cost: 1729.43,
       products: ["63701d24f03239f09e000191"],
     },
     {
       _id: "63701d74f032396b8e00002f",
-      userId: "63701cc1f0323944410002e8",
+      user: "63701cc1f0323944410002e8",
       cost: 2709.97,
       products: [
         "63701d24f032395b3300012b",
@@ -16734,7 +16734,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000030",
-      userId: "63701cc1f0323986f300011f",
+      user: "63701cc1f0323986f300011f",
       cost: 3812.92,
       products: [
         "63701d24f03239b913000016",
@@ -16746,7 +16746,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000031",
-      userId: "63701cc1f0323944410002e1",
+      user: "63701cc1f0323944410002e1",
       cost: 2163.93,
       products: [
         "63701d24f03239d40b00004e",
@@ -16757,7 +16757,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000032",
-      userId: "63701cc1f03239bef0000128",
+      user: "63701cc1f03239bef0000128",
       cost: 62.48,
       products: [
         "63701d24f03239867500012b",
@@ -16769,7 +16769,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000033",
-      userId: "63701cc1f03239d81e00000e",
+      user: "63701cc1f03239d81e00000e",
       cost: 41.64,
       products: [
         "63701d24f032394c4900012b",
@@ -16780,7 +16780,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000034",
-      userId: "63701cc1f032390a3400031e",
+      user: "63701cc1f032390a3400031e",
       cost: 1159.29,
       products: [
         "63701d24f03239f09e00018f",
@@ -16790,13 +16790,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000035",
-      userId: "63701cc1f03239b7f7000008",
+      user: "63701cc1f03239b7f7000008",
       cost: 2479.46,
       products: ["63701d24f03239d40b000053"],
     },
     {
       _id: "63701d74f032396b8e000036",
-      userId: "63701cc1f0323944410002e7",
+      user: "63701cc1f0323944410002e7",
       cost: 1712.97,
       products: [
         "63701d24f032390a34000328",
@@ -16806,7 +16806,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000037",
-      userId: "63701cc1f03239cdc5000011",
+      user: "63701cc1f03239cdc5000011",
       cost: 1845.49,
       products: [
         "63701d24f032396b8e000015",
@@ -16816,7 +16816,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000038",
-      userId: "63701cc1f03239c72c000184",
+      user: "63701cc1f03239c72c000184",
       cost: 33.34,
       products: [
         "63701d24f032399c0000012d",
@@ -16828,7 +16828,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000039",
-      userId: "63701cc1f032395b33000120",
+      user: "63701cc1f032395b33000120",
       cost: 1349.24,
       products: [
         "63701d24f03239f09e000190",
@@ -16840,13 +16840,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00003a",
-      userId: "63701cc1f032395b33000121",
+      user: "63701cc1f032395b33000121",
       cost: 3790.45,
       products: ["63701d24f03239db6900012b"],
     },
     {
       _id: "63701d74f032396b8e00003b",
-      userId: "63701cc1f03239867500011b",
+      user: "63701cc1f03239867500011b",
       cost: 3013.88,
       products: [
         "63701d24f032395694000016",
@@ -16857,13 +16857,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00003c",
-      userId: "63701cc1f03239d59100031d",
+      user: "63701cc1f03239d59100031d",
       cost: 1159.62,
       products: ["63701d24f03239b913000018", "63701d25f03239d591000328"],
     },
     {
       _id: "63701d74f032396b8e00003d",
-      userId: "63701cc1f03239d81e000008",
+      user: "63701cc1f03239d81e000008",
       cost: 2747.76,
       products: [
         "63701d25f03239d591000329",
@@ -16873,13 +16873,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e00003e",
-      userId: "63701cc1f03239c72c00018c",
+      user: "63701cc1f03239c72c00018c",
       cost: 1677,
       products: ["63701d24f032395b3300012c"],
     },
     {
       _id: "63701d74f032396b8e00003f",
-      userId: "63701cc1f03239528f000011",
+      user: "63701cc1f03239528f000011",
       cost: 1406.13,
       products: [
         "63701d25f03239d59100032a",
@@ -16890,7 +16890,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000040",
-      userId: "63701cc1f03239d591000321",
+      user: "63701cc1f03239d591000321",
       cost: 1844.95,
       products: [
         "63701d24f03239db6900012c",
@@ -16902,19 +16902,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000041",
-      userId: "63701cc1f03239b7f7000007",
+      user: "63701cc1f03239b7f7000007",
       cost: 1058.08,
       products: ["63701d24f0323944410002ef"],
     },
     {
       _id: "63701d74f032396b8e000042",
-      userId: "63701cc1f03239f09e000188",
+      user: "63701cc1f03239f09e000188",
       cost: 1290.81,
       products: ["63701d24f032395694000017"],
     },
     {
       _id: "63701d74f032396b8e000043",
-      userId: "63701cc1f03239bef000011d",
+      user: "63701cc1f03239bef000011d",
       cost: 3808.93,
       products: [
         "63701d24f03239db6900012d",
@@ -16924,7 +16924,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000044",
-      userId: "63701cc1f032398675000122",
+      user: "63701cc1f032398675000122",
       cost: 1230.6,
       products: [
         "63701d24f03239d40b00004d",
@@ -16935,25 +16935,25 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f032396b8e000045",
-      userId: "63701cc1f032399c0000011c",
+      user: "63701cc1f032399c0000011c",
       cost: 2460.5,
       products: ["63701d24f0323986f300012b"],
     },
     {
       _id: "63701d74f032396b8e000046",
-      userId: "63701cc1f03239cdc500000c",
+      user: "63701cc1f03239cdc500000c",
       cost: 1664.34,
       products: ["63701d24f0323944410002ee"],
     },
     {
       _id: "63701d74f03239bef000012e",
-      userId: "63701cc1f032396b8e00000d",
+      user: "63701cc1f032396b8e00000d",
       cost: 1109.75,
       products: ["63701d24f0323986f300012c", "63701d24f032390a34000329"],
     },
     {
       _id: "63701d74f03239bef000012f",
-      userId: "63701cc1f032399c00000129",
+      user: "63701cc1f032399c00000129",
       cost: 3075.49,
       products: [
         "63701d24f03239b913000017",
@@ -16965,7 +16965,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000130",
-      userId: "63701cc1f03239b7f700000c",
+      user: "63701cc1f03239b7f700000c",
       cost: 3219.87,
       products: [
         "63701d24f03239d81e000017",
@@ -16975,7 +16975,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000131",
-      userId: "63701cc1f03239cdc5000009",
+      user: "63701cc1f03239cdc5000009",
       cost: 554.41,
       products: [
         "63701d24f03239b7f7000018",
@@ -16985,7 +16985,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000132",
-      userId: "63701cc1f03239b7f7000008",
+      user: "63701cc1f03239b7f7000008",
       cost: 2694.52,
       products: [
         "63701d24f03239528f000018",
@@ -16996,7 +16996,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000133",
-      userId: "63701cc1f03239d40b000041",
+      user: "63701cc1f03239d40b000041",
       cost: 1937.53,
       products: [
         "63701d25f03239d591000328",
@@ -17007,13 +17007,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000134",
-      userId: "63701cc1f03239867500011f",
+      user: "63701cc1f03239867500011f",
       cost: 2182.98,
       products: ["63701d24f03239867500012d"],
     },
     {
       _id: "63701d74f03239bef0000135",
-      userId: "63701cc1f03239cdc500000b",
+      user: "63701cc1f03239cdc500000b",
       cost: 616.02,
       products: [
         "63701d24f03239f09e000190",
@@ -17024,37 +17024,37 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000136",
-      userId: "63701cc1f032398675000126",
+      user: "63701cc1f032398675000126",
       cost: 3358.05,
       products: ["63701d24f032399c0000012c", "63701d24f03239d40b00004c"],
     },
     {
       _id: "63701d74f03239bef0000137",
-      userId: "63701cc1f03239c72c000181",
+      user: "63701cc1f03239c72c000181",
       cost: 2612.1,
       products: ["63701d24f0323986f300012d", "63701d24f032395b3300012b"],
     },
     {
       _id: "63701d74f03239bef0000138",
-      userId: "63701cc1f032395694000010",
+      user: "63701cc1f032395694000010",
       cost: 2963.93,
       products: ["63701d24f03239d81e000016"],
     },
     {
       _id: "63701d74f03239bef0000139",
-      userId: "63701cc1f03239c72c000189",
+      user: "63701cc1f03239c72c000189",
       cost: 2691.9,
       products: ["63701d24f03239528f000017", "63701d24f0323986f300012a"],
     },
     {
       _id: "63701d74f03239bef000013a",
-      userId: "63701cc1f03239528f00000b",
+      user: "63701cc1f03239528f00000b",
       cost: 666.35,
       products: ["63701d25f03239d591000327", "63701d24f032394c4900012c"],
     },
     {
       _id: "63701d74f03239bef000013b",
-      userId: "63701cc1f032399c00000127",
+      user: "63701cc1f032399c00000127",
       cost: 2033.47,
       products: [
         "63701d24f03239d40b000056",
@@ -17066,7 +17066,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000013c",
-      userId: "63701cc1f03239bef0000129",
+      user: "63701cc1f03239bef0000129",
       cost: 1484.96,
       products: [
         "63701d24f032395b3300012a",
@@ -17078,7 +17078,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000013d",
-      userId: "63701cc1f032396b8e000012",
+      user: "63701cc1f032396b8e000012",
       cost: 2263.82,
       products: [
         "63701d24f03239d40b000047",
@@ -17088,7 +17088,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000013e",
-      userId: "63701cc1f03239d81e000007",
+      user: "63701cc1f03239d81e000007",
       cost: 3432.11,
       products: [
         "63701d24f0323944410002ed",
@@ -17100,7 +17100,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000013f",
-      userId: "63701cc1f03239d40b000039",
+      user: "63701cc1f03239d40b000039",
       cost: 2686.67,
       products: [
         "63701d24f032396b8e000017",
@@ -17111,13 +17111,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000140",
-      userId: "63701cc1f032395b33000128",
+      user: "63701cc1f032395b33000128",
       cost: 2674.7,
       products: ["63701d24f032395b3300012c", "63701d24f03239db6900012a"],
     },
     {
       _id: "63701d74f03239bef0000141",
-      userId: "63701cc1f03239f09e000187",
+      user: "63701cc1f03239f09e000187",
       cost: 2984.15,
       products: [
         "63701d24f032390a34000328",
@@ -17128,19 +17128,19 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000142",
-      userId: "63701cc1f03239867500011b",
+      user: "63701cc1f03239867500011b",
       cost: 2261.28,
       products: ["63701d24f03239867500012a"],
     },
     {
       _id: "63701d74f03239bef0000143",
-      userId: "63701cc1f03239cdc5000010",
+      user: "63701cc1f03239cdc5000010",
       cost: 3740.97,
       products: ["63701d24f03239d81e000018", "63701d24f03239d40b000050"],
     },
     {
       _id: "63701d74f03239bef0000144",
-      userId: "63701cc1f03239d40b000040",
+      user: "63701cc1f03239d40b000040",
       cost: 3276.83,
       products: [
         "63701d24f03239f09e000191",
@@ -17150,7 +17150,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000145",
-      userId: "63701cc1f032399c00000123",
+      user: "63701cc1f032399c00000123",
       cost: 3004.11,
       products: [
         "63701d24f03239b913000018",
@@ -17161,7 +17161,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000146",
-      userId: "63701cc1f0323944410002ea",
+      user: "63701cc1f0323944410002ea",
       cost: 1232.26,
       products: [
         "63701d24f03239c72c00018f",
@@ -17173,13 +17173,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000147",
-      userId: "63701cc1f032395694000012",
+      user: "63701cc1f032395694000012",
       cost: 3716.79,
       products: ["63701d25f03239d59100032a"],
     },
     {
       _id: "63701d74f03239bef0000148",
-      userId: "63701cc1f03239d81e00000f",
+      user: "63701cc1f03239d81e00000f",
       cost: 2715.02,
       products: [
         "63701d24f032399c0000012c",
@@ -17191,7 +17191,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000149",
-      userId: "63701cc1f03239db69000128",
+      user: "63701cc1f03239db69000128",
       cost: 2683.83,
       products: [
         "63701d24f03239d81e000015",
@@ -17201,13 +17201,13 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000014a",
-      userId: "63701cc1f03239d81e000008",
+      user: "63701cc1f03239d81e000008",
       cost: 2538.89,
       products: ["63701d24f032399c0000012b", "63701d24f03239d40b00004a"],
     },
     {
       _id: "63701d74f03239bef000014b",
-      userId: "63701cc1f03239867500011e",
+      user: "63701cc1f03239867500011e",
       cost: 808.18,
       products: [
         "63701d24f03239bef000012d",
@@ -17219,7 +17219,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000014c",
-      userId: "63701cc1f032395b33000126",
+      user: "63701cc1f032395b33000126",
       cost: 1124.55,
       products: [
         "63701d24f032396b8e000018",
@@ -17229,31 +17229,31 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef000014d",
-      userId: "63701cc1f032390a34000321",
+      user: "63701cc1f032390a34000321",
       cost: 1471.05,
       products: ["63701d24f032390a34000329", "63701d24f032396b8e000016"],
     },
     {
       _id: "63701d74f03239bef000014e",
-      userId: "63701cc1f0323986f300011f",
+      user: "63701cc1f0323986f300011f",
       cost: 2403.19,
       products: ["63701d24f03239c72c000190"],
     },
     {
       _id: "63701d74f03239bef000014f",
-      userId: "63701cc1f032396b8e00000e",
+      user: "63701cc1f032396b8e00000e",
       cost: 1702.69,
       products: ["63701d24f03239db6900012b", "63701d24f0323944410002ec"],
     },
     {
       _id: "63701d74f03239bef0000150",
-      userId: "63701cc1f03239528f000013",
+      user: "63701cc1f03239528f000013",
       cost: 1864.03,
       products: ["63701d24f0323986f300012b"],
     },
     {
       _id: "63701d74f03239bef0000151",
-      userId: "63701cc1f03239f09e000186",
+      user: "63701cc1f03239f09e000186",
       cost: 3880.97,
       products: [
         "63701d24f03239bef000012b",
@@ -17263,7 +17263,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000152",
-      userId: "63701cc1f032390a3400031a",
+      user: "63701cc1f032390a3400031a",
       cost: 919.82,
       products: [
         "63701d24f032395694000016",
@@ -17273,7 +17273,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000153",
-      userId: "63701cc1f032394c49000125",
+      user: "63701cc1f032394c49000125",
       cost: 968.95,
       products: [
         "63701d24f03239d40b00004f",
@@ -17285,7 +17285,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000154",
-      userId: "63701cc1f03239d40b000043",
+      user: "63701cc1f03239d40b000043",
       cost: 3889.06,
       products: [
         "63701d24f03239f09e000190",
@@ -17296,7 +17296,7 @@ exports.dataAffiliateStat = [
     },
     {
       _id: "63701d74f03239bef0000155",
-      userId: "63701cc1f03239d40b00003e",
+      user: "63701cc1f03239d40b00003e",
       cost: 1720.85,
       products: [
         "63701d24f03239cdc5000017",

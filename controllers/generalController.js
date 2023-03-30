@@ -3,7 +3,6 @@ const asyncHandler = require("express-async-handler");
 const sendToken = require("../utils/jwtToken");
 
 
-
 const loginUser = asyncHandler(async(req,res)=>{
   const { email, password } = req.body;
 
